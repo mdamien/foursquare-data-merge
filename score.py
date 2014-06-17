@@ -6,7 +6,7 @@ combined = json.load(open('data/combined.json'))
 common = set([l.strip() for l in open('data/most_common')])
 
 def remove_common(adr):
-    return ' '.join(set(adr.split()) - common)
+    return ' '.join(sorted(list(set(adr.split()) - common)))
 
 c_0 = 0
 c_100 = 0
@@ -15,12 +15,12 @@ c_other = 0
 for el in combined:
     store = el['store']
     venue = el['venue']
-    address1 = venue['location'].get('address','').upper()
-    address2 = store['location']['address']['streetaddress'].upper()
-    address1 = remove_common(address1)
-    address2 = remove_common(address2)
+    address_s = venue['location'].get('address','')
+    address_f = store['location']['address']['streetaddress']
+    address1 = remove_common(address_s.upper())
+    address2 = remove_common(address_f.upper())
     score = fuzz.token_set_ratio(address1, address2)
-    el['analysis'] = {'score':score, 'fq_address':address1, 'sears_address':address2}
+    el['analysis'] = {'score':score, 'fq_address':address_s, 'sears_address':address_f}
     color = '\033[93m'
     if score == 0:
         color = '\033[91m'
@@ -30,7 +30,7 @@ for el in combined:
         c_100 += 1
     else:
         c_other += 1
-    print(color,score, address1, address2+'\033[0m')
+    print(color,str(score).rjust(4), '|', address1.rjust(32), '|', address2+'\033[0m')
 
 json.dump(combined, open('data/scored.json','w'), indent=2)
 
