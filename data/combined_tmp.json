@@ -1,0 +1,4724 @@
+[
+    {
+        "venue": {
+            "hereNow": {
+                "summary": "0 people here",
+                "count": 0,
+                "groups": []
+            },
+            "storeId": "2583",
+            "location": {
+                "lat": 44.833691,
+                "crossStreet": "Bangor Mall",
+                "state": "ME",
+                "cc": "US",
+                "address": "693 Stillwater Ave",
+                "lng": -68.750624,
+                "country": "United States",
+                "city": "Bangor",
+                "distance": 41115,
+                "postalCode": "04401"
+            },
+            "referralId": "v-1402968889",
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d122951735",
+                    "pluralName": "Electronics Stores",
+                    "icon": {
+                        "suffix": ".png",
+                        "prefix": "https://ss1.4sqi.net/img/categories_v2/shops/technology_"
+                    },
+                    "name": "Electronics Store",
+                    "primary": true,
+                    "shortName": "Electronics"
+                }
+            ],
+            "specials": {
+                "items": [],
+                "count": 0
+            },
+            "url": "http://bit.ly/Sears4sq",
+            "id": "4b92aafaf964a520b80f34e3",
+            "name": "Sears",
+            "contact": {
+                "twitter": "sears",
+                "formattedPhone": "(207) 941-7200",
+                "phone": "2079417200"
+            },
+            "verified": true,
+            "stats": {
+                "tipCount": 1,
+                "checkinsCount": 1825,
+                "usersCount": 244
+            }
+        },
+        "store": {
+            "contactdetails": {
+                "storephones": {
+                    "storephone": "2079417299",
+                    "pharmphone": "#"
+                },
+                "storeworkinhHours": {
+                    "thuopentime": "28800",
+                    "monopentime": "28800",
+                    "sunopentime": "36000",
+                    "friopentime": "28800",
+                    "satopentime": "28800",
+                    "friclosetime": "68400",
+                    "wedopentime": "28800",
+                    "weekdayclosetime": "68400",
+                    "weekdayopentime": "28800",
+                    "wedclosetime": "68400",
+                    "tueopentime": "28800",
+                    "satclosetime": "68400",
+                    "tueclosetime": "68400",
+                    "monclosetime": "68400",
+                    "sunclosetime": "61200",
+                    "thuclosetime": "68400"
+                }
+            },
+            "location": {
+                "address": {
+                    "state": "ME",
+                    "city": "BANGOR",
+                    "fullstatename": "MAINE",
+                    "county": "",
+                    "country": "US",
+                    "zipcode": "044013606",
+                    "streetaddress": "693 STILLWATER AVE"
+                },
+                "latitude": "44.833754",
+                "distance": "967.6449189678666",
+                "longitude": "-68.750571"
+            },
+            "storeinfo": {
+                "storeName": "SEARS AUTO CENTER",
+                "storeType": "Sears_Auto_Centers",
+                "closeDate": "9999-12-31",
+                "startDate": "1978-10-02",
+                "storeNumber": "0006953",
+                "storeholidays": {
+                    "holidays": [
+                        {
+                            "holidaystartime": "0",
+                            "holidaydate": "0000-0-00",
+                            "holidayclosetime": "0"
+                        }
+                    ]
+                }
+            },
+            "storeservices": {
+                "storeservice": [
+                    {
+                        "servicename": "STORE PICK UP",
+                        "servicerank": "6",
+                        "serviceicon": "icon_spu.gif"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "venue": {
+            "hereNow": {
+                "summary": "0 people here",
+                "count": 0,
+                "groups": []
+            },
+            "id": "50a8f426e4b0a916aba9124e",
+            "location": {
+                "state": "ME",
+                "cc": "US",
+                "lat": 44.831332498217314,
+                "lng": -68.74644502494407,
+                "country": "United States",
+                "city": "Bangor",
+                "distance": 40704,
+                "postalCode": "04401"
+            },
+            "referralId": "v-1402968889",
+            "name": "Sears Portrait Studio",
+            "stats": {
+                "tipCount": 0,
+                "checkinsCount": 9,
+                "usersCount": 1
+            },
+            "contact": {},
+            "specials": {
+                "items": [],
+                "count": 0
+            },
+            "verified": false,
+            "categories": [
+                {
+                    "id": "4eb1bdde3b7b55596b4a7490",
+                    "pluralName": "Photography Labs",
+                    "icon": {
+                        "suffix": ".png",
+                        "prefix": "https://ss1.4sqi.net/img/categories_v2/shops/photographylab_"
+                    },
+                    "name": "Photography Lab",
+                    "primary": true,
+                    "shortName": "Photography Lab"
+                }
+            ]
+        },
+        "store": {
+            "contactdetails": {
+                "storephones": {
+                    "storephone": "2079417200",
+                    "pharmphone": "#"
+                },
+                "storeworkinhHours": {
+                    "thuopentime": "36000",
+                    "monopentime": "36000",
+                    "sunopentime": "36000",
+                    "friopentime": "36000",
+                    "satopentime": "32400",
+                    "friclosetime": "75600",
+                    "wedopentime": "36000",
+                    "weekdayclosetime": "72000",
+                    "weekdayopentime": "36000",
+                    "wedclosetime": "72000",
+                    "tueopentime": "36000",
+                    "satclosetime": "75600",
+                    "tueclosetime": "72000",
+                    "monclosetime": "72000",
+                    "sunclosetime": "66600",
+                    "thuclosetime": "72000"
+                }
+            },
+            "location": {
+                "address": {
+                    "state": "ME",
+                    "city": "BANGOR",
+                    "fullstatename": "MAINE",
+                    "county": "",
+                    "country": "US",
+                    "zipcode": "044013606",
+                    "streetaddress": "693 STILLWATER AVE"
+                },
+                "latitude": "44.8310097728829",
+                "distance": "967.8004048469029",
+                "longitude": "-68.7470103574408"
+            },
+            "storeinfo": {
+                "storeName": "BANGOR MALL",
+                "storeType": "Sears_Stores",
+                "closeDate": "9999-12-31",
+                "startDate": "1978-10-02",
+                "storeNumber": "0002583",
+                "storeholidays": {
+                    "holidays": [
+                        {
+                            "holidaystartime": "0",
+                            "holidaydate": "0000-0-00",
+                            "holidayclosetime": "0"
+                        }
+                    ]
+                }
+            },
+            "storeservices": {
+                "storeservice": [
+                    {
+                        "servicename": "GIFT REGISTRY",
+                        "servicerank": "1",
+                        "serviceicon": "icon_giftreg.gif"
+                    },
+                    {
+                        "servicename": "STORE PICK UP",
+                        "servicerank": "6",
+                        "serviceicon": "icon_spu.gif"
+                    },
+                    {
+                        "servicename": "Drop-off Location",
+                        "servicerank": "7",
+                        "serviceicon": "icon_repair.gif"
+                    },
+                    {
+                        "servicename": "OPTICAL",
+                        "servicerank": "11",
+                        "serviceicon": "icon_optical.gif"
+                    },
+                    {
+                        "servicename": "TAX SERVICES",
+                        "servicerank": "12",
+                        "serviceicon": "icon_tax.gif"
+                    },
+                    {
+                        "servicename": "LE Shops",
+                        "servicerank": "16",
+                        "serviceicon": "icon_LE.gif"
+                    },
+                    {
+                        "servicename": "SHIP FROM STORE",
+                        "servicerank": "27",
+                        "serviceicon": "icon_sfs.gif"
+                    },
+                    {
+                        "servicename": "Free WiFi",
+                        "servicerank": "31",
+                        "serviceicon": "icon_wifi.gif"
+                    },
+                    {
+                        "servicename": "Cross Format STS",
+                        "servicerank": "39",
+                        "serviceicon": "icon_crossformatsts.gif"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "venue": {
+            "hereNow": {
+                "summary": "0 people here",
+                "count": 0,
+                "groups": []
+            },
+            "id": "4d8273507890224b6b354b2b",
+            "location": {
+                "lat": 44.83057453855874,
+                "crossStreet": "Stillwater",
+                "state": "ME",
+                "cc": "US",
+                "address": "Bangor mall blvd",
+                "lng": -68.74772172518371,
+                "country": "United States",
+                "city": "Bangor",
+                "distance": 40701,
+                "postalCode": "04777"
+            },
+            "referralId": "v-1402968889",
+            "name": "Sears S For Stupid",
+            "stats": {
+                "tipCount": 0,
+                "checkinsCount": 10,
+                "usersCount": 6
+            },
+            "contact": {},
+            "specials": {
+                "items": [],
+                "count": 0
+            },
+            "verified": false,
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d1f6941735",
+                    "pluralName": "Department Stores",
+                    "icon": {
+                        "suffix": ".png",
+                        "prefix": "https://ss1.4sqi.net/img/categories_v2/shops/departmentstore_"
+                    },
+                    "name": "Department Store",
+                    "primary": true,
+                    "shortName": "Department Store"
+                }
+            ]
+        },
+        "store": {
+            "contactdetails": {
+                "storephones": {
+                    "storephone": "2079417200",
+                    "pharmphone": "#"
+                },
+                "storeworkinhHours": {
+                    "thuopentime": "36000",
+                    "monopentime": "36000",
+                    "sunopentime": "36000",
+                    "friopentime": "36000",
+                    "satopentime": "32400",
+                    "friclosetime": "75600",
+                    "wedopentime": "36000",
+                    "weekdayclosetime": "72000",
+                    "weekdayopentime": "36000",
+                    "wedclosetime": "72000",
+                    "tueopentime": "36000",
+                    "satclosetime": "75600",
+                    "tueclosetime": "72000",
+                    "monclosetime": "72000",
+                    "sunclosetime": "66600",
+                    "thuclosetime": "72000"
+                }
+            },
+            "location": {
+                "address": {
+                    "state": "ME",
+                    "city": "BANGOR",
+                    "fullstatename": "MAINE",
+                    "county": "",
+                    "country": "US",
+                    "zipcode": "044013606",
+                    "streetaddress": "693 STILLWATER AVE"
+                },
+                "latitude": "44.8310097728829",
+                "distance": "967.8004048469029",
+                "longitude": "-68.7470103574408"
+            },
+            "storeinfo": {
+                "storeName": "BANGOR MALL",
+                "storeType": "Sears_Stores",
+                "closeDate": "9999-12-31",
+                "startDate": "1978-10-02",
+                "storeNumber": "0002583",
+                "storeholidays": {
+                    "holidays": [
+                        {
+                            "holidaystartime": "0",
+                            "holidaydate": "0000-0-00",
+                            "holidayclosetime": "0"
+                        }
+                    ]
+                }
+            },
+            "storeservices": {
+                "storeservice": [
+                    {
+                        "servicename": "GIFT REGISTRY",
+                        "servicerank": "1",
+                        "serviceicon": "icon_giftreg.gif"
+                    },
+                    {
+                        "servicename": "STORE PICK UP",
+                        "servicerank": "6",
+                        "serviceicon": "icon_spu.gif"
+                    },
+                    {
+                        "servicename": "Drop-off Location",
+                        "servicerank": "7",
+                        "serviceicon": "icon_repair.gif"
+                    },
+                    {
+                        "servicename": "OPTICAL",
+                        "servicerank": "11",
+                        "serviceicon": "icon_optical.gif"
+                    },
+                    {
+                        "servicename": "TAX SERVICES",
+                        "servicerank": "12",
+                        "serviceicon": "icon_tax.gif"
+                    },
+                    {
+                        "servicename": "LE Shops",
+                        "servicerank": "16",
+                        "serviceicon": "icon_LE.gif"
+                    },
+                    {
+                        "servicename": "SHIP FROM STORE",
+                        "servicerank": "27",
+                        "serviceicon": "icon_sfs.gif"
+                    },
+                    {
+                        "servicename": "Free WiFi",
+                        "servicerank": "31",
+                        "serviceicon": "icon_wifi.gif"
+                    },
+                    {
+                        "servicename": "Cross Format STS",
+                        "servicerank": "39",
+                        "serviceicon": "icon_crossformatsts.gif"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "venue": {
+            "hereNow": {
+                "summary": "0 people here",
+                "count": 0,
+                "groups": []
+            },
+            "id": "4f86ffe1e4b0ba045946e405",
+            "location": {
+                "lat": 44.833686,
+                "state": "ME",
+                "cc": "US",
+                "address": "693 Stillwater Av Bangor Mall",
+                "lng": -68.750629,
+                "country": "United States",
+                "city": "Bangor",
+                "distance": 41115,
+                "postalCode": "04401"
+            },
+            "referralId": "v-1402968889",
+            "name": "Sears Hearing Aid Center",
+            "stats": {
+                "tipCount": 0,
+                "checkinsCount": 0,
+                "usersCount": 0
+            },
+            "contact": {
+                "formattedPhone": "(207) 945-5519",
+                "phone": "2079455519"
+            },
+            "specials": {
+                "items": [],
+                "count": 0
+            },
+            "url": "http://miracle-ear-bangorme.com",
+            "verified": true,
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d177941735",
+                    "pluralName": "Doctor's Offices",
+                    "icon": {
+                        "suffix": ".png",
+                        "prefix": "https://ss1.4sqi.net/img/categories_v2/building/medical_doctorsoffice_"
+                    },
+                    "name": "Doctor's Office",
+                    "primary": true,
+                    "shortName": "Doctor's Office"
+                }
+            ]
+        },
+        "store": {
+            "contactdetails": {
+                "storephones": {
+                    "storephone": "2079417299",
+                    "pharmphone": "#"
+                },
+                "storeworkinhHours": {
+                    "thuopentime": "28800",
+                    "monopentime": "28800",
+                    "sunopentime": "36000",
+                    "friopentime": "28800",
+                    "satopentime": "28800",
+                    "friclosetime": "68400",
+                    "wedopentime": "28800",
+                    "weekdayclosetime": "68400",
+                    "weekdayopentime": "28800",
+                    "wedclosetime": "68400",
+                    "tueopentime": "28800",
+                    "satclosetime": "68400",
+                    "tueclosetime": "68400",
+                    "monclosetime": "68400",
+                    "sunclosetime": "61200",
+                    "thuclosetime": "68400"
+                }
+            },
+            "location": {
+                "address": {
+                    "state": "ME",
+                    "city": "BANGOR",
+                    "fullstatename": "MAINE",
+                    "county": "",
+                    "country": "US",
+                    "zipcode": "044013606",
+                    "streetaddress": "693 STILLWATER AVE"
+                },
+                "latitude": "44.833754",
+                "distance": "967.6449189678666",
+                "longitude": "-68.750571"
+            },
+            "storeinfo": {
+                "storeName": "SEARS AUTO CENTER",
+                "storeType": "Sears_Auto_Centers",
+                "closeDate": "9999-12-31",
+                "startDate": "1978-10-02",
+                "storeNumber": "0006953",
+                "storeholidays": {
+                    "holidays": [
+                        {
+                            "holidaystartime": "0",
+                            "holidaydate": "0000-0-00",
+                            "holidayclosetime": "0"
+                        }
+                    ]
+                }
+            },
+            "storeservices": {
+                "storeservice": [
+                    {
+                        "servicename": "STORE PICK UP",
+                        "servicerank": "6",
+                        "serviceicon": "icon_spu.gif"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "venue": {
+            "hereNow": {
+                "summary": "0 people here",
+                "count": 0,
+                "groups": []
+            },
+            "storeId": "6953",
+            "location": {
+                "lat": 44.833686,
+                "state": "ME",
+                "cc": "US",
+                "address": "693 Stillwater Ave",
+                "lng": -68.750629,
+                "country": "United States",
+                "city": "Bangor",
+                "distance": 41115,
+                "postalCode": "04401"
+            },
+            "referralId": "v-1402968889",
+            "categories": [
+                {
+                    "id": "4eb1c1623b7b52c0e1adc2ec",
+                    "pluralName": "Car Dealerships",
+                    "icon": {
+                        "suffix": ".png",
+                        "prefix": "https://ss1.4sqi.net/img/categories_v2/shops/automotive_"
+                    },
+                    "name": "Car Dealership",
+                    "primary": true,
+                    "shortName": "Car Dealer"
+                }
+            ],
+            "specials": {
+                "items": [],
+                "count": 0
+            },
+            "url": "http://t.co/ckTNI9ym6m",
+            "id": "4e7d13bf2da5558a14a96159",
+            "name": "Sears Auto Center",
+            "contact": {
+                "twitter": "searsauto",
+                "formattedPhone": "(207) 941-7299",
+                "phone": "2079417299"
+            },
+            "verified": true,
+            "stats": {
+                "tipCount": 2,
+                "checkinsCount": 244,
+                "usersCount": 49
+            }
+        },
+        "store": {
+            "contactdetails": {
+                "storephones": {
+                    "storephone": "2079417299",
+                    "pharmphone": "#"
+                },
+                "storeworkinhHours": {
+                    "thuopentime": "28800",
+                    "monopentime": "28800",
+                    "sunopentime": "36000",
+                    "friopentime": "28800",
+                    "satopentime": "28800",
+                    "friclosetime": "68400",
+                    "wedopentime": "28800",
+                    "weekdayclosetime": "68400",
+                    "weekdayopentime": "28800",
+                    "wedclosetime": "68400",
+                    "tueopentime": "28800",
+                    "satclosetime": "68400",
+                    "tueclosetime": "68400",
+                    "monclosetime": "68400",
+                    "sunclosetime": "61200",
+                    "thuclosetime": "68400"
+                }
+            },
+            "location": {
+                "address": {
+                    "state": "ME",
+                    "city": "BANGOR",
+                    "fullstatename": "MAINE",
+                    "county": "",
+                    "country": "US",
+                    "zipcode": "044013606",
+                    "streetaddress": "693 STILLWATER AVE"
+                },
+                "latitude": "44.833754",
+                "distance": "967.6449189678666",
+                "longitude": "-68.750571"
+            },
+            "storeinfo": {
+                "storeName": "SEARS AUTO CENTER",
+                "storeType": "Sears_Auto_Centers",
+                "closeDate": "9999-12-31",
+                "startDate": "1978-10-02",
+                "storeNumber": "0006953",
+                "storeholidays": {
+                    "holidays": [
+                        {
+                            "holidaystartime": "0",
+                            "holidaydate": "0000-0-00",
+                            "holidayclosetime": "0"
+                        }
+                    ]
+                }
+            },
+            "storeservices": {
+                "storeservice": [
+                    {
+                        "servicename": "STORE PICK UP",
+                        "servicerank": "6",
+                        "serviceicon": "icon_spu.gif"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "venue": {
+            "hereNow": {
+                "summary": "0 people here",
+                "count": 0,
+                "groups": []
+            },
+            "id": "530786d0498e2d8c151d5a3e",
+            "location": {
+                "state": "ME",
+                "cc": "US",
+                "lat": 44.830631256103516,
+                "lng": -68.74720764160156,
+                "country": "United States",
+                "city": "Bangor",
+                "distance": 40680
+            },
+            "referralId": "v-1402968889",
+            "name": "break room sears",
+            "stats": {
+                "tipCount": 0,
+                "checkinsCount": 1,
+                "usersCount": 1
+            },
+            "contact": {},
+            "specials": {
+                "items": [],
+                "count": 0
+            },
+            "verified": false,
+            "categories": [
+                {
+                    "id": "52e81612bcbc57f1066b7a35",
+                    "pluralName": "Club Houses",
+                    "icon": {
+                        "suffix": ".png",
+                        "prefix": "https://ss1.4sqi.net/img/categories_v2/building/default_"
+                    },
+                    "name": "Club House",
+                    "primary": true,
+                    "shortName": "Club"
+                }
+            ]
+        },
+        "store": {
+            "contactdetails": {
+                "storephones": {
+                    "storephone": "2079417200",
+                    "pharmphone": "#"
+                },
+                "storeworkinhHours": {
+                    "thuopentime": "36000",
+                    "monopentime": "36000",
+                    "sunopentime": "36000",
+                    "friopentime": "36000",
+                    "satopentime": "32400",
+                    "friclosetime": "75600",
+                    "wedopentime": "36000",
+                    "weekdayclosetime": "72000",
+                    "weekdayopentime": "36000",
+                    "wedclosetime": "72000",
+                    "tueopentime": "36000",
+                    "satclosetime": "75600",
+                    "tueclosetime": "72000",
+                    "monclosetime": "72000",
+                    "sunclosetime": "66600",
+                    "thuclosetime": "72000"
+                }
+            },
+            "location": {
+                "address": {
+                    "state": "ME",
+                    "city": "BANGOR",
+                    "fullstatename": "MAINE",
+                    "county": "",
+                    "country": "US",
+                    "zipcode": "044013606",
+                    "streetaddress": "693 STILLWATER AVE"
+                },
+                "latitude": "44.8310097728829",
+                "distance": "967.8004048469029",
+                "longitude": "-68.7470103574408"
+            },
+            "storeinfo": {
+                "storeName": "BANGOR MALL",
+                "storeType": "Sears_Stores",
+                "closeDate": "9999-12-31",
+                "startDate": "1978-10-02",
+                "storeNumber": "0002583",
+                "storeholidays": {
+                    "holidays": [
+                        {
+                            "holidaystartime": "0",
+                            "holidaydate": "0000-0-00",
+                            "holidayclosetime": "0"
+                        }
+                    ]
+                }
+            },
+            "storeservices": {
+                "storeservice": [
+                    {
+                        "servicename": "GIFT REGISTRY",
+                        "servicerank": "1",
+                        "serviceicon": "icon_giftreg.gif"
+                    },
+                    {
+                        "servicename": "STORE PICK UP",
+                        "servicerank": "6",
+                        "serviceicon": "icon_spu.gif"
+                    },
+                    {
+                        "servicename": "Drop-off Location",
+                        "servicerank": "7",
+                        "serviceicon": "icon_repair.gif"
+                    },
+                    {
+                        "servicename": "OPTICAL",
+                        "servicerank": "11",
+                        "serviceicon": "icon_optical.gif"
+                    },
+                    {
+                        "servicename": "TAX SERVICES",
+                        "servicerank": "12",
+                        "serviceicon": "icon_tax.gif"
+                    },
+                    {
+                        "servicename": "LE Shops",
+                        "servicerank": "16",
+                        "serviceicon": "icon_LE.gif"
+                    },
+                    {
+                        "servicename": "SHIP FROM STORE",
+                        "servicerank": "27",
+                        "serviceicon": "icon_sfs.gif"
+                    },
+                    {
+                        "servicename": "Free WiFi",
+                        "servicerank": "31",
+                        "serviceicon": "icon_wifi.gif"
+                    },
+                    {
+                        "servicename": "Cross Format STS",
+                        "servicerank": "39",
+                        "serviceicon": "icon_crossformatsts.gif"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "venue": {
+            "hereNow": {
+                "summary": "0 people here",
+                "count": 0,
+                "groups": []
+            },
+            "id": "4f6dd38ae4b0e3b3bd478a63",
+            "location": {
+                "lat": 42.20184912749804,
+                "state": "MA",
+                "cc": "US",
+                "address": "385 Southbridge St",
+                "lng": -71.83746521373762,
+                "country": "United States",
+                "city": "Auburn",
+                "distance": 35,
+                "postalCode": "01501"
+            },
+            "referralId": "v-1402968892",
+            "name": "Sears",
+            "stats": {
+                "tipCount": 2,
+                "checkinsCount": 559,
+                "usersCount": 205
+            },
+            "contact": {},
+            "specials": {
+                "items": [],
+                "count": 0
+            },
+            "verified": false,
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d103951735",
+                    "pluralName": "Clothing Stores",
+                    "icon": {
+                        "suffix": ".png",
+                        "prefix": "https://ss1.4sqi.net/img/categories_v2/shops/apparel_"
+                    },
+                    "name": "Clothing Store",
+                    "primary": true,
+                    "shortName": "Apparel"
+                }
+            ]
+        },
+        "store": {
+            "contactdetails": {
+                "storephones": {
+                    "storephone": "5087292200",
+                    "pharmphone": "#"
+                },
+                "storeworkinhHours": {
+                    "thuopentime": "34200",
+                    "monopentime": "34200",
+                    "sunopentime": "36000",
+                    "friopentime": "32400",
+                    "satopentime": "32400",
+                    "friclosetime": "75600",
+                    "wedopentime": "34200",
+                    "weekdayclosetime": "75600",
+                    "weekdayopentime": "34200",
+                    "wedclosetime": "75600",
+                    "tueopentime": "34200",
+                    "satclosetime": "75600",
+                    "tueclosetime": "75600",
+                    "monclosetime": "75600",
+                    "sunclosetime": "66600",
+                    "thuclosetime": "75600"
+                }
+            },
+            "location": {
+                "address": {
+                    "state": "MA",
+                    "city": "AUBURN",
+                    "fullstatename": "MASSACHUSETTS",
+                    "county": "",
+                    "country": "US",
+                    "zipcode": "015012487",
+                    "streetaddress": "385 SOUTHBRIDGE ST"
+                },
+                "latitude": "42.2016609161227",
+                "distance": "809.4130367558922",
+                "longitude": "-71.8371200346236"
+            },
+            "storeinfo": {
+                "storeName": "AUBURN MALL",
+                "storeType": "Sears_Stores",
+                "closeDate": "9999-12-31",
+                "startDate": "1971-03-29",
+                "storeNumber": "0001213",
+                "storeholidays": {
+                    "holidays": [
+                        {
+                            "holidaystartime": "0",
+                            "holidaydate": "0000-0-00",
+                            "holidayclosetime": "0"
+                        }
+                    ]
+                }
+            },
+            "storeservices": {
+                "storeservice": [
+                    {
+                        "servicename": "GIFT REGISTRY",
+                        "servicerank": "1",
+                        "serviceicon": "icon_giftreg.gif"
+                    },
+                    {
+                        "servicename": "STORE PICK UP",
+                        "servicerank": "6",
+                        "serviceicon": "icon_spu.gif"
+                    },
+                    {
+                        "servicename": "HEARING AIDS",
+                        "servicerank": "10",
+                        "serviceicon": "icon_hearingaid.gif"
+                    },
+                    {
+                        "servicename": "OPTICAL",
+                        "servicerank": "11",
+                        "serviceicon": "icon_optical.gif"
+                    },
+                    {
+                        "servicename": "TAX SERVICES",
+                        "servicerank": "12",
+                        "serviceicon": "icon_tax.gif"
+                    },
+                    {
+                        "servicename": "LE Home Shop",
+                        "servicerank": "15",
+                        "serviceicon": "icon_LEH.gif"
+                    },
+                    {
+                        "servicename": "LE Shops",
+                        "servicerank": "16",
+                        "serviceicon": "icon_LE.gif"
+                    },
+                    {
+                        "servicename": "RESERVE AND PAY",
+                        "servicerank": "19",
+                        "serviceicon": "icon_respay.gif"
+                    },
+                    {
+                        "servicename": "Free WiFi",
+                        "servicerank": "31",
+                        "serviceicon": "icon_wifi.gif"
+                    },
+                    {
+                        "servicename": "Cross Format STS",
+                        "servicerank": "39",
+                        "serviceicon": "icon_crossformatsts.gif"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "venue": {
+            "hereNow": {
+                "summary": "0 people here",
+                "count": 0,
+                "groups": []
+            },
+            "id": "4f1af1ffe4b0c7ea677b7f71",
+            "location": {
+                "lat": 42.201319108295046,
+                "state": "MA",
+                "cc": "US",
+                "address": "385 Southbridge St",
+                "lng": -71.83763314737698,
+                "country": "United States",
+                "city": "Auburn",
+                "distance": 56,
+                "postalCode": "01501"
+            },
+            "referralId": "v-1402968892",
+            "name": "Sears Optical",
+            "stats": {
+                "tipCount": 0,
+                "checkinsCount": 21,
+                "usersCount": 11
+            },
+            "contact": {},
+            "specials": {
+                "items": [],
+                "count": 0
+            },
+            "verified": false,
+            "categories": [
+                {
+                    "id": "4d954afda243a5684865b473",
+                    "pluralName": "Optical Shops",
+                    "icon": {
+                        "suffix": ".png",
+                        "prefix": "https://ss1.4sqi.net/img/categories_v2/building/medical_opticalshop_"
+                    },
+                    "name": "Optical Shop",
+                    "primary": true,
+                    "shortName": "Optical"
+                }
+            ]
+        },
+        "store": {
+            "contactdetails": {
+                "storephones": {
+                    "storephone": "5087292200",
+                    "pharmphone": "#"
+                },
+                "storeworkinhHours": {
+                    "thuopentime": "34200",
+                    "monopentime": "34200",
+                    "sunopentime": "36000",
+                    "friopentime": "32400",
+                    "satopentime": "32400",
+                    "friclosetime": "75600",
+                    "wedopentime": "34200",
+                    "weekdayclosetime": "75600",
+                    "weekdayopentime": "34200",
+                    "wedclosetime": "75600",
+                    "tueopentime": "34200",
+                    "satclosetime": "75600",
+                    "tueclosetime": "75600",
+                    "monclosetime": "75600",
+                    "sunclosetime": "66600",
+                    "thuclosetime": "75600"
+                }
+            },
+            "location": {
+                "address": {
+                    "state": "MA",
+                    "city": "AUBURN",
+                    "fullstatename": "MASSACHUSETTS",
+                    "county": "",
+                    "country": "US",
+                    "zipcode": "015012487",
+                    "streetaddress": "385 SOUTHBRIDGE ST"
+                },
+                "latitude": "42.2016609161227",
+                "distance": "809.4130367558922",
+                "longitude": "-71.8371200346236"
+            },
+            "storeinfo": {
+                "storeName": "AUBURN MALL",
+                "storeType": "Sears_Stores",
+                "closeDate": "9999-12-31",
+                "startDate": "1971-03-29",
+                "storeNumber": "0001213",
+                "storeholidays": {
+                    "holidays": [
+                        {
+                            "holidaystartime": "0",
+                            "holidaydate": "0000-0-00",
+                            "holidayclosetime": "0"
+                        }
+                    ]
+                }
+            },
+            "storeservices": {
+                "storeservice": [
+                    {
+                        "servicename": "GIFT REGISTRY",
+                        "servicerank": "1",
+                        "serviceicon": "icon_giftreg.gif"
+                    },
+                    {
+                        "servicename": "STORE PICK UP",
+                        "servicerank": "6",
+                        "serviceicon": "icon_spu.gif"
+                    },
+                    {
+                        "servicename": "HEARING AIDS",
+                        "servicerank": "10",
+                        "serviceicon": "icon_hearingaid.gif"
+                    },
+                    {
+                        "servicename": "OPTICAL",
+                        "servicerank": "11",
+                        "serviceicon": "icon_optical.gif"
+                    },
+                    {
+                        "servicename": "TAX SERVICES",
+                        "servicerank": "12",
+                        "serviceicon": "icon_tax.gif"
+                    },
+                    {
+                        "servicename": "LE Home Shop",
+                        "servicerank": "15",
+                        "serviceicon": "icon_LEH.gif"
+                    },
+                    {
+                        "servicename": "LE Shops",
+                        "servicerank": "16",
+                        "serviceicon": "icon_LE.gif"
+                    },
+                    {
+                        "servicename": "RESERVE AND PAY",
+                        "servicerank": "19",
+                        "serviceicon": "icon_respay.gif"
+                    },
+                    {
+                        "servicename": "Free WiFi",
+                        "servicerank": "31",
+                        "serviceicon": "icon_wifi.gif"
+                    },
+                    {
+                        "servicename": "Cross Format STS",
+                        "servicerank": "39",
+                        "serviceicon": "icon_crossformatsts.gif"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "venue": {
+            "hereNow": {
+                "summary": "0 people here",
+                "count": 0,
+                "groups": []
+            },
+            "storeId": "1213",
+            "location": {
+                "lat": 42.201611,
+                "state": "MA",
+                "cc": "US",
+                "address": "387 Southbridge St",
+                "lng": -71.839129,
+                "country": "United States",
+                "city": "Auburn",
+                "distance": 165,
+                "postalCode": "01501"
+            },
+            "referralId": "v-1402968892",
+            "categories": [
+                {
+                    "id": "4eb1c1623b7b52c0e1adc2ec",
+                    "pluralName": "Car Dealerships",
+                    "icon": {
+                        "suffix": ".png",
+                        "prefix": "https://ss1.4sqi.net/img/categories_v2/shops/automotive_"
+                    },
+                    "name": "Car Dealership",
+                    "primary": true,
+                    "shortName": "Car Dealer"
+                }
+            ],
+            "specials": {
+                "items": [],
+                "count": 0
+            },
+            "url": "http://t.co/ckTNI9ym6m",
+            "id": "4bc89b5caf07a593b537812d",
+            "name": "Sears Auto Center",
+            "contact": {
+                "twitter": "searsauto",
+                "formattedPhone": "(508) 729-2228",
+                "phone": "5087292228"
+            },
+            "verified": true,
+            "stats": {
+                "tipCount": 0,
+                "checkinsCount": 338,
+                "usersCount": 202
+            }
+        },
+        "store": {
+            "contactdetails": {
+                "storephones": {
+                    "storephone": "5087292200",
+                    "pharmphone": "#"
+                },
+                "storeworkinhHours": {
+                    "thuopentime": "34200",
+                    "monopentime": "34200",
+                    "sunopentime": "36000",
+                    "friopentime": "32400",
+                    "satopentime": "32400",
+                    "friclosetime": "75600",
+                    "wedopentime": "34200",
+                    "weekdayclosetime": "75600",
+                    "weekdayopentime": "34200",
+                    "wedclosetime": "75600",
+                    "tueopentime": "34200",
+                    "satclosetime": "75600",
+                    "tueclosetime": "75600",
+                    "monclosetime": "75600",
+                    "sunclosetime": "66600",
+                    "thuclosetime": "75600"
+                }
+            },
+            "location": {
+                "address": {
+                    "state": "MA",
+                    "city": "AUBURN",
+                    "fullstatename": "MASSACHUSETTS",
+                    "county": "",
+                    "country": "US",
+                    "zipcode": "015012487",
+                    "streetaddress": "385 SOUTHBRIDGE ST"
+                },
+                "latitude": "42.2016609161227",
+                "distance": "809.4130367558922",
+                "longitude": "-71.8371200346236"
+            },
+            "storeinfo": {
+                "storeName": "AUBURN MALL",
+                "storeType": "Sears_Stores",
+                "closeDate": "9999-12-31",
+                "startDate": "1971-03-29",
+                "storeNumber": "0001213",
+                "storeholidays": {
+                    "holidays": [
+                        {
+                            "holidaystartime": "0",
+                            "holidaydate": "0000-0-00",
+                            "holidayclosetime": "0"
+                        }
+                    ]
+                }
+            },
+            "storeservices": {
+                "storeservice": [
+                    {
+                        "servicename": "GIFT REGISTRY",
+                        "servicerank": "1",
+                        "serviceicon": "icon_giftreg.gif"
+                    },
+                    {
+                        "servicename": "STORE PICK UP",
+                        "servicerank": "6",
+                        "serviceicon": "icon_spu.gif"
+                    },
+                    {
+                        "servicename": "HEARING AIDS",
+                        "servicerank": "10",
+                        "serviceicon": "icon_hearingaid.gif"
+                    },
+                    {
+                        "servicename": "OPTICAL",
+                        "servicerank": "11",
+                        "serviceicon": "icon_optical.gif"
+                    },
+                    {
+                        "servicename": "TAX SERVICES",
+                        "servicerank": "12",
+                        "serviceicon": "icon_tax.gif"
+                    },
+                    {
+                        "servicename": "LE Home Shop",
+                        "servicerank": "15",
+                        "serviceicon": "icon_LEH.gif"
+                    },
+                    {
+                        "servicename": "LE Shops",
+                        "servicerank": "16",
+                        "serviceicon": "icon_LE.gif"
+                    },
+                    {
+                        "servicename": "RESERVE AND PAY",
+                        "servicerank": "19",
+                        "serviceicon": "icon_respay.gif"
+                    },
+                    {
+                        "servicename": "Free WiFi",
+                        "servicerank": "31",
+                        "serviceicon": "icon_wifi.gif"
+                    },
+                    {
+                        "servicename": "Cross Format STS",
+                        "servicerank": "39",
+                        "serviceicon": "icon_crossformatsts.gif"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "venue": {
+            "hereNow": {
+                "summary": "0 people here",
+                "count": 0,
+                "groups": []
+            },
+            "id": "4b27d0d2f964a520778a24e3",
+            "location": {
+                "lat": 42.35764011914741,
+                "state": "MA",
+                "cc": "US",
+                "address": "521 Donald Lynch Blvd",
+                "lng": -71.6116976737976,
+                "country": "United States",
+                "city": "Marlborough",
+                "distance": 25420,
+                "postalCode": "01752"
+            },
+            "referralId": "v-1402968892",
+            "name": "Sears",
+            "stats": {
+                "tipCount": 1,
+                "checkinsCount": 1081,
+                "usersCount": 422
+            },
+            "contact": {
+                "formattedPhone": "(508) 357-6200",
+                "phone": "5083576200"
+            },
+            "specials": {
+                "items": [],
+                "count": 0
+            },
+            "url": "http://sears.com",
+            "verified": false,
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d1f6941735",
+                    "pluralName": "Department Stores",
+                    "icon": {
+                        "suffix": ".png",
+                        "prefix": "https://ss1.4sqi.net/img/categories_v2/shops/departmentstore_"
+                    },
+                    "name": "Department Store",
+                    "primary": true,
+                    "shortName": "Department Store"
+                }
+            ]
+        },
+        "store": {
+            "contactdetails": {
+                "storephones": {
+                    "storephone": "5083576200",
+                    "pharmphone": null
+                },
+                "storeworkinhHours": {
+                    "thuopentime": "36000",
+                    "monopentime": "36000",
+                    "sunopentime": "36000",
+                    "friopentime": "32400",
+                    "satopentime": "32400",
+                    "friclosetime": "75600",
+                    "wedopentime": "36000",
+                    "weekdayclosetime": "75600",
+                    "weekdayopentime": "36000",
+                    "wedclosetime": "75600",
+                    "tueopentime": "36000",
+                    "satclosetime": "75600",
+                    "tueclosetime": "75600",
+                    "monclosetime": "75600",
+                    "sunclosetime": "64800",
+                    "thuclosetime": "75600"
+                }
+            },
+            "location": {
+                "address": {
+                    "state": "MA",
+                    "city": "MARLBOROUGH",
+                    "fullstatename": "MASSACHUSETTS",
+                    "county": "",
+                    "country": "US",
+                    "zipcode": "017524725",
+                    "streetaddress": "521 LYNCH BLVD"
+                },
+                "latitude": "42.3576869000605",
+                "distance": "820.2529368418525",
+                "longitude": "-71.6120359118993"
+            },
+            "storeinfo": {
+                "storeName": "MARLBOROUGH - A",
+                "storeType": "Sears_Stores",
+                "closeDate": "9999-12-31",
+                "startDate": "1996-07-31",
+                "storeNumber": "0001104",
+                "storeholidays": {
+                    "holidays": [
+                        {
+                            "holidaystartime": "0",
+                            "holidaydate": "0000-0-00",
+                            "holidayclosetime": "0"
+                        }
+                    ]
+                }
+            },
+            "storeservices": {
+                "storeservice": [
+                    {
+                        "servicename": "GIFT REGISTRY",
+                        "servicerank": "1",
+                        "serviceicon": "icon_giftreg.gif"
+                    },
+                    {
+                        "servicename": "STORE PICK UP",
+                        "servicerank": "6",
+                        "serviceicon": "icon_spu.gif"
+                    },
+                    {
+                        "servicename": "Drop-off Location",
+                        "servicerank": "7",
+                        "serviceicon": "icon_repair.gif"
+                    },
+                    {
+                        "servicename": "HEARING AIDS",
+                        "servicerank": "10",
+                        "serviceicon": "icon_hearingaid.gif"
+                    },
+                    {
+                        "servicename": "OPTICAL",
+                        "servicerank": "11",
+                        "serviceicon": "icon_optical.gif"
+                    },
+                    {
+                        "servicename": "TAX SERVICES",
+                        "servicerank": "12",
+                        "serviceicon": "icon_tax.gif"
+                    },
+                    {
+                        "servicename": "LE Shops",
+                        "servicerank": "16",
+                        "serviceicon": "icon_LE.gif"
+                    },
+                    {
+                        "servicename": "RESERVE AND PAY",
+                        "servicerank": "19",
+                        "serviceicon": "icon_respay.gif"
+                    },
+                    {
+                        "servicename": "Free WiFi",
+                        "servicerank": "31",
+                        "serviceicon": "icon_wifi.gif"
+                    },
+                    {
+                        "servicename": "Cross Format STS",
+                        "servicerank": "39",
+                        "serviceicon": "icon_crossformatsts.gif"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "venue": {
+            "hereNow": {
+                "summary": "0 people here",
+                "count": 0,
+                "groups": []
+            },
+            "storeId": "9698",
+            "location": {
+                "lat": 42.125143,
+                "state": "MA",
+                "cc": "US",
+                "address": "1167 Providence Rd.",
+                "lng": -71.646149,
+                "country": "United States",
+                "city": "Whitinsville",
+                "distance": 17912,
+                "postalCode": "01588"
+            },
+            "referralId": "v-1402968892",
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d112951735",
+                    "pluralName": "Hardware Stores",
+                    "icon": {
+                        "suffix": ".png",
+                        "prefix": "https://ss1.4sqi.net/img/categories_v2/shops/hardware_"
+                    },
+                    "name": "Hardware Store",
+                    "primary": true,
+                    "shortName": "Hardware"
+                }
+            ],
+            "specials": {
+                "items": [],
+                "count": 0
+            },
+            "url": "http://www.searshometownstores.com/locations/whitinsville-ma",
+            "id": "4e109f7745dde6c62dcc170f",
+            "name": "Sears Hometown Store",
+            "contact": {
+                "formattedPhone": "(508) 234-1500",
+                "phone": "5082341500"
+            },
+            "verified": true,
+            "stats": {
+                "tipCount": 1,
+                "checkinsCount": 7,
+                "usersCount": 7
+            }
+        },
+        "store": {
+            "contactdetails": {
+                "storephones": {
+                    "storephone": "5082341500",
+                    "pharmphone": null
+                },
+                "storeworkinhHours": {
+                    "thuopentime": "32400",
+                    "monopentime": "32400",
+                    "sunopentime": "39600",
+                    "friopentime": "32400",
+                    "satopentime": "32400",
+                    "friclosetime": "68400",
+                    "wedopentime": "32400",
+                    "weekdayclosetime": "68400",
+                    "weekdayopentime": "32400",
+                    "wedclosetime": "68400",
+                    "tueopentime": "32400",
+                    "satclosetime": "64800",
+                    "tueclosetime": "68400",
+                    "monclosetime": "68400",
+                    "sunclosetime": "57600",
+                    "thuclosetime": "68400"
+                }
+            },
+            "location": {
+                "address": {
+                    "state": "MA",
+                    "city": "WHITINSVILLE",
+                    "fullstatename": "MASSACHUSETTS",
+                    "county": "",
+                    "country": "US",
+                    "zipcode": "01588    ",
+                    "streetaddress": "1167 PROVIDENCE RD UNIT 4"
+                },
+                "latitude": "42.125",
+                "distance": "819.5461284395562",
+                "longitude": "-71.646"
+            },
+            "storeinfo": {
+                "storeName": "WHITINSVILLE -AUTH HOMETOWN",
+                "storeType": "Hometown_Dealers",
+                "closeDate": "9999-12-31",
+                "startDate": "2011-06-23",
+                "storeNumber": "0009698",
+                "storeholidays": {
+                    "holidays": [
+                        {
+                            "holidaystartime": "0",
+                            "holidaydate": "0000-0-00",
+                            "holidayclosetime": "0"
+                        }
+                    ]
+                }
+            },
+            "storeservices": {
+                "storeservice": [
+                    {
+                        "servicename": "STORE PICK UP",
+                        "servicerank": "6",
+                        "serviceicon": "icon_spu.gif"
+                    },
+                    {
+                        "servicename": "Drop-off Location",
+                        "servicerank": "7",
+                        "serviceicon": "icon_repair.gif"
+                    },
+                    {
+                        "servicename": "HAS WEBSITE",
+                        "servicerank": "18",
+                        "serviceicon": "icon_website.gif"
+                    },
+                    {
+                        "servicename": "RESERVE AND PAY",
+                        "servicerank": "19",
+                        "serviceicon": "icon_respay.gif"
+                    },
+                    {
+                        "servicename": "SHIP FROM STORE",
+                        "servicerank": "27",
+                        "serviceicon": "icon_sfs.gif"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "venue": {
+            "hereNow": {
+                "summary": "0 people here",
+                "count": 0,
+                "groups": []
+            },
+            "id": "4e9c363bd22d8be589c01772",
+            "location": {
+                "state": "Massachusetts",
+                "cc": "US",
+                "lat": 42.3573714457385,
+                "lng": -71.61123733130786,
+                "country": "United States",
+                "distance": 25427
+            },
+            "referralId": "v-1402968892",
+            "name": "Sears Portrait Studio",
+            "stats": {
+                "tipCount": 0,
+                "checkinsCount": 58,
+                "usersCount": 9
+            },
+            "contact": {},
+            "specials": {
+                "items": [],
+                "count": 0
+            },
+            "verified": false,
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d1f4941735",
+                    "pluralName": "Design Studios",
+                    "icon": {
+                        "suffix": ".png",
+                        "prefix": "https://ss1.4sqi.net/img/categories_v2/shops/design_"
+                    },
+                    "name": "Design Studio",
+                    "primary": true,
+                    "shortName": "Design"
+                }
+            ]
+        },
+        "store": {
+            "contactdetails": {
+                "storephones": {
+                    "storephone": "5083576200",
+                    "pharmphone": null
+                },
+                "storeworkinhHours": {
+                    "thuopentime": "36000",
+                    "monopentime": "36000",
+                    "sunopentime": "36000",
+                    "friopentime": "32400",
+                    "satopentime": "32400",
+                    "friclosetime": "75600",
+                    "wedopentime": "36000",
+                    "weekdayclosetime": "75600",
+                    "weekdayopentime": "36000",
+                    "wedclosetime": "75600",
+                    "tueopentime": "36000",
+                    "satclosetime": "75600",
+                    "tueclosetime": "75600",
+                    "monclosetime": "75600",
+                    "sunclosetime": "64800",
+                    "thuclosetime": "75600"
+                }
+            },
+            "location": {
+                "address": {
+                    "state": "MA",
+                    "city": "MARLBOROUGH",
+                    "fullstatename": "MASSACHUSETTS",
+                    "county": "",
+                    "country": "US",
+                    "zipcode": "017524725",
+                    "streetaddress": "521 LYNCH BLVD"
+                },
+                "latitude": "42.3576869000605",
+                "distance": "820.2529368418525",
+                "longitude": "-71.6120359118993"
+            },
+            "storeinfo": {
+                "storeName": "MARLBOROUGH - A",
+                "storeType": "Sears_Stores",
+                "closeDate": "9999-12-31",
+                "startDate": "1996-07-31",
+                "storeNumber": "0001104",
+                "storeholidays": {
+                    "holidays": [
+                        {
+                            "holidaystartime": "0",
+                            "holidaydate": "0000-0-00",
+                            "holidayclosetime": "0"
+                        }
+                    ]
+                }
+            },
+            "storeservices": {
+                "storeservice": [
+                    {
+                        "servicename": "GIFT REGISTRY",
+                        "servicerank": "1",
+                        "serviceicon": "icon_giftreg.gif"
+                    },
+                    {
+                        "servicename": "STORE PICK UP",
+                        "servicerank": "6",
+                        "serviceicon": "icon_spu.gif"
+                    },
+                    {
+                        "servicename": "Drop-off Location",
+                        "servicerank": "7",
+                        "serviceicon": "icon_repair.gif"
+                    },
+                    {
+                        "servicename": "HEARING AIDS",
+                        "servicerank": "10",
+                        "serviceicon": "icon_hearingaid.gif"
+                    },
+                    {
+                        "servicename": "OPTICAL",
+                        "servicerank": "11",
+                        "serviceicon": "icon_optical.gif"
+                    },
+                    {
+                        "servicename": "TAX SERVICES",
+                        "servicerank": "12",
+                        "serviceicon": "icon_tax.gif"
+                    },
+                    {
+                        "servicename": "LE Shops",
+                        "servicerank": "16",
+                        "serviceicon": "icon_LE.gif"
+                    },
+                    {
+                        "servicename": "RESERVE AND PAY",
+                        "servicerank": "19",
+                        "serviceicon": "icon_respay.gif"
+                    },
+                    {
+                        "servicename": "Free WiFi",
+                        "servicerank": "31",
+                        "serviceicon": "icon_wifi.gif"
+                    },
+                    {
+                        "servicename": "Cross Format STS",
+                        "servicerank": "39",
+                        "serviceicon": "icon_crossformatsts.gif"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "venue": {
+            "hereNow": {
+                "summary": "0 people here",
+                "count": 0,
+                "groups": []
+            },
+            "storeId": "2073",
+            "location": {
+                "lat": 42.016592225921315,
+                "state": "RI",
+                "cc": "US",
+                "address": "1500 Diamond Hill Rd",
+                "lng": -71.48136237714212,
+                "country": "United States",
+                "city": "Woonsocket",
+                "distance": 35883,
+                "postalCode": "02895"
+            },
+            "referralId": "v-1402968892",
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d1f6941735",
+                    "pluralName": "Department Stores",
+                    "icon": {
+                        "suffix": ".png",
+                        "prefix": "https://ss1.4sqi.net/img/categories_v2/shops/departmentstore_"
+                    },
+                    "name": "Department Store",
+                    "primary": true,
+                    "shortName": "Department Store"
+                }
+            ],
+            "specials": {
+                "items": [],
+                "count": 0
+            },
+            "url": "http://bit.ly/Sears4sq",
+            "id": "4bbcb61d07809521a8a0d991",
+            "name": "Sears",
+            "contact": {
+                "twitter": "sears",
+                "formattedPhone": "(401) 767-8400",
+                "phone": "4017678400"
+            },
+            "verified": true,
+            "stats": {
+                "tipCount": 0,
+                "checkinsCount": 252,
+                "usersCount": 117
+            }
+        },
+        "store": {
+            "contactdetails": {
+                "storephones": {
+                    "storephone": "4017678400",
+                    "pharmphone": "#"
+                },
+                "storeworkinhHours": {
+                    "thuopentime": "36000",
+                    "monopentime": "36000",
+                    "sunopentime": "36000",
+                    "friopentime": "36000",
+                    "satopentime": "32400",
+                    "friclosetime": "75600",
+                    "wedopentime": "36000",
+                    "weekdayclosetime": "75600",
+                    "weekdayopentime": "36000",
+                    "wedclosetime": "75600",
+                    "tueopentime": "36000",
+                    "satclosetime": "75600",
+                    "tueclosetime": "75600",
+                    "monclosetime": "75600",
+                    "sunclosetime": "64800",
+                    "thuclosetime": "75600"
+                }
+            },
+            "location": {
+                "address": {
+                    "state": "RI",
+                    "city": "WOONSOCKET",
+                    "fullstatename": "RHODE ISLAND",
+                    "county": "",
+                    "country": "US",
+                    "zipcode": "028951537",
+                    "streetaddress": "1500 DIAMOND HILL RD"
+                },
+                "latitude": "42.0169701696163",
+                "distance": "828.5429799767118",
+                "longitude": "-71.4814972349942"
+            },
+            "storeinfo": {
+                "storeName": "WALNUT HILL PLZ",
+                "storeType": "Sears_Stores",
+                "closeDate": "9999-12-31",
+                "startDate": "1988-08-31",
+                "storeNumber": "0002073",
+                "storeholidays": {
+                    "holidays": [
+                        {
+                            "holidaystartime": "0",
+                            "holidaydate": "0000-0-00",
+                            "holidayclosetime": "0"
+                        }
+                    ]
+                }
+            },
+            "storeservices": {
+                "storeservice": [
+                    {
+                        "servicename": "GIFT REGISTRY",
+                        "servicerank": "1",
+                        "serviceicon": "icon_giftreg.gif"
+                    },
+                    {
+                        "servicename": "STORE PICK UP",
+                        "servicerank": "6",
+                        "serviceicon": "icon_spu.gif"
+                    },
+                    {
+                        "servicename": "Drop-off Location",
+                        "servicerank": "7",
+                        "serviceicon": "icon_repair.gif"
+                    },
+                    {
+                        "servicename": "HEARING AIDS",
+                        "servicerank": "10",
+                        "serviceicon": "icon_hearingaid.gif"
+                    },
+                    {
+                        "servicename": "OPTICAL",
+                        "servicerank": "11",
+                        "serviceicon": "icon_optical.gif"
+                    },
+                    {
+                        "servicename": "TAX SERVICES",
+                        "servicerank": "12",
+                        "serviceicon": "icon_tax.gif"
+                    },
+                    {
+                        "servicename": "Cross Format STS",
+                        "servicerank": "39",
+                        "serviceicon": "icon_crossformatsts.gif"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "venue": {
+            "hereNow": {
+                "summary": "0 people here",
+                "count": 0,
+                "groups": []
+            },
+            "storeId": "1133",
+            "location": {
+                "lat": 42.530800783258165,
+                "crossStreet": "Sack Blvd",
+                "state": "MA",
+                "cc": "US",
+                "address": "100 Commercial Rd",
+                "lng": -71.74248747951052,
+                "country": "United States",
+                "city": "Leominster",
+                "distance": 37457,
+                "postalCode": "01453"
+            },
+            "referralId": "v-1402968892",
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d122951735",
+                    "pluralName": "Electronics Stores",
+                    "icon": {
+                        "suffix": ".png",
+                        "prefix": "https://ss1.4sqi.net/img/categories_v2/shops/technology_"
+                    },
+                    "name": "Electronics Store",
+                    "primary": true,
+                    "shortName": "Electronics"
+                }
+            ],
+            "specials": {
+                "items": [],
+                "count": 0
+            },
+            "url": "http://bit.ly/Sears4sq",
+            "id": "4c50cd4d3940be9a5f2dcb07",
+            "name": "Sears",
+            "contact": {
+                "twitter": "sears",
+                "formattedPhone": "(978) 534-2200",
+                "phone": "9785342200"
+            },
+            "verified": true,
+            "stats": {
+                "tipCount": 2,
+                "checkinsCount": 710,
+                "usersCount": 245
+            }
+        },
+        "store": {
+            "contactdetails": {
+                "storephones": {
+                    "storephone": "9785342200",
+                    "pharmphone": null
+                },
+                "storeworkinhHours": {
+                    "thuopentime": "36000",
+                    "monopentime": "36000",
+                    "sunopentime": "36000",
+                    "friopentime": "36000",
+                    "satopentime": "36000",
+                    "friclosetime": "75600",
+                    "wedopentime": "36000",
+                    "weekdayclosetime": "75600",
+                    "weekdayopentime": "36000",
+                    "wedclosetime": "75600",
+                    "tueopentime": "36000",
+                    "satclosetime": "75600",
+                    "tueclosetime": "75600",
+                    "monclosetime": "75600",
+                    "sunclosetime": "64800",
+                    "thuclosetime": "75600"
+                }
+            },
+            "location": {
+                "address": {
+                    "state": "MA",
+                    "city": "LEOMINSTER",
+                    "fullstatename": "MASSACHUSETTS",
+                    "county": "",
+                    "country": "US",
+                    "zipcode": "014533333",
+                    "streetaddress": "100 COMMERCIAL RD"
+                },
+                "latitude": "42.5307041715291",
+                "distance": "813.0420077042447",
+                "longitude": "-71.7426667764108"
+            },
+            "storeinfo": {
+                "storeName": "MALL AT WHITNEY FIELDS",
+                "storeType": "Sears_Stores",
+                "closeDate": "9999-12-31",
+                "startDate": "1967-08-02",
+                "storeNumber": "0001133",
+                "storeholidays": {
+                    "holidays": [
+                        {
+                            "holidaystartime": "0",
+                            "holidaydate": "0000-0-00",
+                            "holidayclosetime": "0"
+                        }
+                    ]
+                }
+            },
+            "storeservices": {
+                "storeservice": [
+                    {
+                        "servicename": "GIFT REGISTRY",
+                        "servicerank": "1",
+                        "serviceicon": "icon_giftreg.gif"
+                    },
+                    {
+                        "servicename": "STORE PICK UP",
+                        "servicerank": "6",
+                        "serviceicon": "icon_spu.gif"
+                    },
+                    {
+                        "servicename": "Drop-off Location",
+                        "servicerank": "7",
+                        "serviceicon": "icon_repair.gif"
+                    },
+                    {
+                        "servicename": "OPTICAL",
+                        "servicerank": "11",
+                        "serviceicon": "icon_optical.gif"
+                    },
+                    {
+                        "servicename": "TAX SERVICES",
+                        "servicerank": "12",
+                        "serviceicon": "icon_tax.gif"
+                    },
+                    {
+                        "servicename": "LE Shops",
+                        "servicerank": "16",
+                        "serviceicon": "icon_LE.gif"
+                    },
+                    {
+                        "servicename": "HAS WEBSITE",
+                        "servicerank": "18",
+                        "serviceicon": "icon_website.gif"
+                    },
+                    {
+                        "servicename": "RESERVE AND PAY",
+                        "servicerank": "19",
+                        "serviceicon": "icon_respay.gif"
+                    },
+                    {
+                        "servicename": "SHIP FROM STORE",
+                        "servicerank": "27",
+                        "serviceicon": "icon_sfs.gif"
+                    },
+                    {
+                        "servicename": "Free WiFi",
+                        "servicerank": "31",
+                        "serviceicon": "icon_wifi.gif"
+                    },
+                    {
+                        "servicename": "Cross Format STS",
+                        "servicerank": "39",
+                        "serviceicon": "icon_crossformatsts.gif"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "venue": {
+            "hereNow": {
+                "summary": "0 people here",
+                "count": 0,
+                "groups": []
+            },
+            "storeId": "5353",
+            "location": {
+                "lat": 42.24111199378967,
+                "state": "MA",
+                "cc": "US",
+                "address": "310 Pond Street",
+                "lng": -71.43161214888096,
+                "country": "United States",
+                "city": "Ashland",
+                "distance": 33716,
+                "postalCode": "01721"
+            },
+            "referralId": "v-1402968892",
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d112951735",
+                    "pluralName": "Hardware Stores",
+                    "icon": {
+                        "suffix": ".png",
+                        "prefix": "https://ss1.4sqi.net/img/categories_v2/shops/hardware_"
+                    },
+                    "name": "Hardware Store",
+                    "primary": true,
+                    "shortName": "Hardware"
+                }
+            ],
+            "specials": {
+                "items": [],
+                "count": 0
+            },
+            "url": "http://www.searshardwarestores.com/locations/ashland-ma",
+            "id": "4b23f6fcf964a520f25d24e3",
+            "name": "Sears Appliance and Hardware Store",
+            "contact": {
+                "formattedPhone": "(508) 881-8000",
+                "phone": "5088818000"
+            },
+            "verified": true,
+            "stats": {
+                "tipCount": 2,
+                "checkinsCount": 156,
+                "usersCount": 75
+            }
+        },
+        "store": {
+            "contactdetails": {
+                "storephones": {
+                    "storephone": "5088818000",
+                    "pharmphone": "#"
+                },
+                "storeworkinhHours": {
+                    "thuopentime": "28800",
+                    "monopentime": "28800",
+                    "sunopentime": "32400",
+                    "friopentime": "28800",
+                    "satopentime": "28800",
+                    "friclosetime": "75600",
+                    "wedopentime": "28800",
+                    "weekdayclosetime": "75600",
+                    "weekdayopentime": "28800",
+                    "wedclosetime": "75600",
+                    "tueopentime": "28800",
+                    "satclosetime": "75600",
+                    "tueclosetime": "75600",
+                    "monclosetime": "75600",
+                    "sunclosetime": "64800",
+                    "thuclosetime": "75600"
+                }
+            },
+            "location": {
+                "address": {
+                    "state": "MA",
+                    "city": "ASHLAND",
+                    "fullstatename": "MASSACHUSETTS",
+                    "county": "",
+                    "country": "US",
+                    "zipcode": "01721    ",
+                    "streetaddress": "310 POND ST RT 126"
+                },
+                "latitude": "42.241333",
+                "distance": "829.941858629357",
+                "longitude": "-71.431556"
+            },
+            "storeinfo": {
+                "storeName": "ASHLAND - HDWR",
+                "storeType": "Hardware_Stores",
+                "closeDate": "9999-12-31",
+                "startDate": "1996-11-13",
+                "storeNumber": "0005353",
+                "storeholidays": {
+                    "holidays": [
+                        {
+                            "holidaystartime": "0",
+                            "holidaydate": "0000-0-00",
+                            "holidayclosetime": "0"
+                        }
+                    ]
+                }
+            },
+            "storeservices": {
+                "storeservice": [
+                    {
+                        "servicename": "STORE PICK UP",
+                        "servicerank": "6",
+                        "serviceicon": "icon_spu.gif"
+                    },
+                    {
+                        "servicename": "APPLIANCES",
+                        "servicerank": "14",
+                        "serviceicon": "icon_appliances.gif"
+                    },
+                    {
+                        "servicename": "HAS WEBSITE",
+                        "servicerank": "18",
+                        "serviceicon": "icon_website.gif"
+                    },
+                    {
+                        "servicename": "RESERVE AND PAY",
+                        "servicerank": "19",
+                        "serviceicon": "icon_respay.gif"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "venue": {
+            "hereNow": {
+                "summary": "0 people here",
+                "count": 0,
+                "groups": []
+            },
+            "storeId": "3609",
+            "location": {
+                "lat": 42.256332859396935,
+                "state": "MA",
+                "cc": "US",
+                "address": "124 West St.",
+                "lng": -72.25044630467892,
+                "country": "United States",
+                "city": "Ware",
+                "distance": 34608,
+                "postalCode": "01082"
+            },
+            "referralId": "v-1402968892",
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d112951735",
+                    "pluralName": "Hardware Stores",
+                    "icon": {
+                        "suffix": ".png",
+                        "prefix": "https://ss1.4sqi.net/img/categories_v2/shops/hardware_"
+                    },
+                    "name": "Hardware Store",
+                    "primary": true,
+                    "shortName": "Hardware"
+                }
+            ],
+            "specials": {
+                "items": [],
+                "count": 0
+            },
+            "url": "http://www.searshometownstores.com/locations/ware-ma",
+            "id": "4dd6dd851f6ee146831468f8",
+            "name": "Sears Hometown Store",
+            "contact": {
+                "formattedPhone": "(413) 967-4859",
+                "phone": "4139674859"
+            },
+            "verified": true,
+            "stats": {
+                "tipCount": 1,
+                "checkinsCount": 21,
+                "usersCount": 14
+            }
+        },
+        "store": {
+            "contactdetails": {
+                "storephones": {
+                    "storephone": "4139674859",
+                    "pharmphone": null
+                },
+                "storeworkinhHours": {
+                    "thuopentime": "32400",
+                    "monopentime": "32400",
+                    "sunopentime": "32400",
+                    "friopentime": "32400",
+                    "satopentime": "32400",
+                    "friclosetime": "72000",
+                    "wedopentime": "32400",
+                    "weekdayclosetime": "72000",
+                    "weekdayopentime": "32400",
+                    "wedclosetime": "72000",
+                    "tueopentime": "32400",
+                    "satclosetime": "64800",
+                    "tueclosetime": "72000",
+                    "monclosetime": "72000",
+                    "sunclosetime": "61200",
+                    "thuclosetime": "72000"
+                }
+            },
+            "location": {
+                "address": {
+                    "state": "MA",
+                    "city": "WARE",
+                    "fullstatename": "MASSACHUSETTS",
+                    "county": "",
+                    "country": "US",
+                    "zipcode": "01082    ",
+                    "streetaddress": "124 WEST ST"
+                },
+                "latitude": "42.256",
+                "distance": "788.096952602364",
+                "longitude": "-72.25"
+            },
+            "storeinfo": {
+                "storeName": "WARE - AUTH HOMETOWN",
+                "storeType": "Hometown_Dealers",
+                "closeDate": "9999-12-31",
+                "startDate": "2011-03-23",
+                "storeNumber": "0003609",
+                "storeholidays": {
+                    "holidays": [
+                        {
+                            "holidaystartime": "0",
+                            "holidaydate": "0000-0-00",
+                            "holidayclosetime": "0"
+                        }
+                    ]
+                }
+            },
+            "storeservices": {
+                "storeservice": [
+                    {
+                        "servicename": "STORE PICK UP",
+                        "servicerank": "6",
+                        "serviceicon": "icon_spu.gif"
+                    },
+                    {
+                        "servicename": "Drop-off Location",
+                        "servicerank": "7",
+                        "serviceicon": "icon_repair.gif"
+                    },
+                    {
+                        "servicename": "HAS WEBSITE",
+                        "servicerank": "18",
+                        "serviceicon": "icon_website.gif"
+                    },
+                    {
+                        "servicename": "RESERVE AND PAY",
+                        "servicerank": "19",
+                        "serviceicon": "icon_respay.gif"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "venue": {
+            "hereNow": {
+                "summary": "0 people here",
+                "count": 0,
+                "groups": []
+            },
+            "storeId": "6723",
+            "location": {
+                "lat": 42.0158,
+                "state": "RI",
+                "cc": "US",
+                "address": "1500 Diamond Hill Rd",
+                "lng": -71.48155,
+                "country": "United States",
+                "city": "Woonsocket",
+                "distance": 35921,
+                "postalCode": "02895"
+            },
+            "referralId": "v-1402968892",
+            "categories": [
+                {
+                    "id": "4eb1c1623b7b52c0e1adc2ec",
+                    "pluralName": "Car Dealerships",
+                    "icon": {
+                        "suffix": ".png",
+                        "prefix": "https://ss1.4sqi.net/img/categories_v2/shops/automotive_"
+                    },
+                    "name": "Car Dealership",
+                    "primary": true,
+                    "shortName": "Car Dealer"
+                }
+            ],
+            "specials": {
+                "items": [],
+                "count": 0
+            },
+            "url": "http://t.co/ckTNI9ym6m",
+            "id": "4e7d13bc2da5558a14a95a24",
+            "name": "Sears Auto Center",
+            "contact": {
+                "twitter": "searsauto",
+                "formattedPhone": "(401) 767-8400",
+                "phone": "4017678400"
+            },
+            "verified": true,
+            "stats": {
+                "tipCount": 0,
+                "checkinsCount": 27,
+                "usersCount": 12
+            }
+        },
+        "store": {
+            "contactdetails": {
+                "storephones": {
+                    "storephone": "4017678495",
+                    "pharmphone": "#"
+                },
+                "storeworkinhHours": {
+                    "thuopentime": "28800",
+                    "monopentime": "28800",
+                    "sunopentime": "36000",
+                    "friopentime": "28800",
+                    "satopentime": "28800",
+                    "friclosetime": "75600",
+                    "wedopentime": "28800",
+                    "weekdayclosetime": "68400",
+                    "weekdayopentime": "28800",
+                    "wedclosetime": "75600",
+                    "tueopentime": "28800",
+                    "satclosetime": "68400",
+                    "tueclosetime": "75600",
+                    "monclosetime": "75600",
+                    "sunclosetime": "61200",
+                    "thuclosetime": "75600"
+                }
+            },
+            "location": {
+                "address": {
+                    "state": "RI",
+                    "city": "WOONSOCKET",
+                    "fullstatename": "RHODE ISLAND",
+                    "county": "",
+                    "country": "US",
+                    "zipcode": "02895    ",
+                    "streetaddress": "1500 DIAMOND HILL RD"
+                },
+                "latitude": "42.015801",
+                "distance": "828.5598093243638",
+                "longitude": "-71.4813"
+            },
+            "storeinfo": {
+                "storeName": "SEARS AUTO CENTER",
+                "storeType": "Sears_Auto_Centers",
+                "closeDate": "9999-12-31",
+                "startDate": "1988-08-31",
+                "storeNumber": "0006723",
+                "storeholidays": {
+                    "holidays": [
+                        {
+                            "holidaystartime": "0",
+                            "holidaydate": "0000-0-00",
+                            "holidayclosetime": "0"
+                        }
+                    ]
+                }
+            },
+            "storeservices": {
+                "storeservice": [
+                    {
+                        "servicename": "STORE PICK UP",
+                        "servicerank": "6",
+                        "serviceicon": "icon_spu.gif"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "venue": {
+            "hereNow": {
+                "summary": "0 people here",
+                "count": 0,
+                "groups": []
+            },
+            "id": "505cc232e4b05434c093773b",
+            "location": {
+                "state": "MA",
+                "cc": "US",
+                "lat": 42.53043817420136,
+                "lng": -71.74353592614268,
+                "country": "United States",
+                "city": "Leominster",
+                "distance": 37399,
+                "postalCode": "01453"
+            },
+            "referralId": "v-1402968892",
+            "name": "Sears Portrait Studio",
+            "stats": {
+                "tipCount": 0,
+                "checkinsCount": 4,
+                "usersCount": 2
+            },
+            "contact": {},
+            "specials": {
+                "items": [],
+                "count": 0
+            },
+            "verified": false,
+            "categories": [
+                {
+                    "id": "4eb1bdde3b7b55596b4a7490",
+                    "pluralName": "Photography Labs",
+                    "icon": {
+                        "suffix": ".png",
+                        "prefix": "https://ss1.4sqi.net/img/categories_v2/shops/photographylab_"
+                    },
+                    "name": "Photography Lab",
+                    "primary": true,
+                    "shortName": "Photography Lab"
+                }
+            ]
+        },
+        "store": {
+            "contactdetails": {
+                "storephones": {
+                    "storephone": "9785342200",
+                    "pharmphone": null
+                },
+                "storeworkinhHours": {
+                    "thuopentime": "36000",
+                    "monopentime": "36000",
+                    "sunopentime": "36000",
+                    "friopentime": "36000",
+                    "satopentime": "36000",
+                    "friclosetime": "75600",
+                    "wedopentime": "36000",
+                    "weekdayclosetime": "75600",
+                    "weekdayopentime": "36000",
+                    "wedclosetime": "75600",
+                    "tueopentime": "36000",
+                    "satclosetime": "75600",
+                    "tueclosetime": "75600",
+                    "monclosetime": "75600",
+                    "sunclosetime": "64800",
+                    "thuclosetime": "75600"
+                }
+            },
+            "location": {
+                "address": {
+                    "state": "MA",
+                    "city": "LEOMINSTER",
+                    "fullstatename": "MASSACHUSETTS",
+                    "county": "",
+                    "country": "US",
+                    "zipcode": "014533333",
+                    "streetaddress": "100 COMMERCIAL RD"
+                },
+                "latitude": "42.5307041715291",
+                "distance": "813.0420077042447",
+                "longitude": "-71.7426667764108"
+            },
+            "storeinfo": {
+                "storeName": "MALL AT WHITNEY FIELDS",
+                "storeType": "Sears_Stores",
+                "closeDate": "9999-12-31",
+                "startDate": "1967-08-02",
+                "storeNumber": "0001133",
+                "storeholidays": {
+                    "holidays": [
+                        {
+                            "holidaystartime": "0",
+                            "holidaydate": "0000-0-00",
+                            "holidayclosetime": "0"
+                        }
+                    ]
+                }
+            },
+            "storeservices": {
+                "storeservice": [
+                    {
+                        "servicename": "GIFT REGISTRY",
+                        "servicerank": "1",
+                        "serviceicon": "icon_giftreg.gif"
+                    },
+                    {
+                        "servicename": "STORE PICK UP",
+                        "servicerank": "6",
+                        "serviceicon": "icon_spu.gif"
+                    },
+                    {
+                        "servicename": "Drop-off Location",
+                        "servicerank": "7",
+                        "serviceicon": "icon_repair.gif"
+                    },
+                    {
+                        "servicename": "OPTICAL",
+                        "servicerank": "11",
+                        "serviceicon": "icon_optical.gif"
+                    },
+                    {
+                        "servicename": "TAX SERVICES",
+                        "servicerank": "12",
+                        "serviceicon": "icon_tax.gif"
+                    },
+                    {
+                        "servicename": "LE Shops",
+                        "servicerank": "16",
+                        "serviceicon": "icon_LE.gif"
+                    },
+                    {
+                        "servicename": "HAS WEBSITE",
+                        "servicerank": "18",
+                        "serviceicon": "icon_website.gif"
+                    },
+                    {
+                        "servicename": "RESERVE AND PAY",
+                        "servicerank": "19",
+                        "serviceicon": "icon_respay.gif"
+                    },
+                    {
+                        "servicename": "SHIP FROM STORE",
+                        "servicerank": "27",
+                        "serviceicon": "icon_sfs.gif"
+                    },
+                    {
+                        "servicename": "Free WiFi",
+                        "servicerank": "31",
+                        "serviceicon": "icon_wifi.gif"
+                    },
+                    {
+                        "servicename": "Cross Format STS",
+                        "servicerank": "39",
+                        "serviceicon": "icon_crossformatsts.gif"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "venue": {
+            "hereNow": {
+                "summary": "0 people here",
+                "count": 0,
+                "groups": []
+            },
+            "id": "4fa2d20de4b060d2c5b4ff2e",
+            "location": {
+                "state": "MA",
+                "cc": "US",
+                "lat": 42.531193,
+                "lng": -71.743032,
+                "country": "United States",
+                "city": "Leominster",
+                "distance": 37490,
+                "postalCode": "01453"
+            },
+            "referralId": "v-1402968892",
+            "name": "Sears Optical Department",
+            "stats": {
+                "tipCount": 0,
+                "checkinsCount": 2,
+                "usersCount": 2
+            },
+            "contact": {},
+            "specials": {
+                "items": [],
+                "count": 0
+            },
+            "verified": false,
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d130941735",
+                    "pluralName": "Buildings",
+                    "icon": {
+                        "suffix": ".png",
+                        "prefix": "https://ss1.4sqi.net/img/categories_v2/building/default_"
+                    },
+                    "name": "Building",
+                    "primary": true,
+                    "shortName": "Building"
+                }
+            ]
+        },
+        "store": {
+            "contactdetails": {
+                "storephones": {
+                    "storephone": "9785342200",
+                    "pharmphone": null
+                },
+                "storeworkinhHours": {
+                    "thuopentime": "36000",
+                    "monopentime": "36000",
+                    "sunopentime": "36000",
+                    "friopentime": "36000",
+                    "satopentime": "36000",
+                    "friclosetime": "75600",
+                    "wedopentime": "36000",
+                    "weekdayclosetime": "75600",
+                    "weekdayopentime": "36000",
+                    "wedclosetime": "75600",
+                    "tueopentime": "36000",
+                    "satclosetime": "75600",
+                    "tueclosetime": "75600",
+                    "monclosetime": "75600",
+                    "sunclosetime": "64800",
+                    "thuclosetime": "75600"
+                }
+            },
+            "location": {
+                "address": {
+                    "state": "MA",
+                    "city": "LEOMINSTER",
+                    "fullstatename": "MASSACHUSETTS",
+                    "county": "",
+                    "country": "US",
+                    "zipcode": "014533333",
+                    "streetaddress": "100 COMMERCIAL RD"
+                },
+                "latitude": "42.5307041715291",
+                "distance": "813.0420077042447",
+                "longitude": "-71.7426667764108"
+            },
+            "storeinfo": {
+                "storeName": "MALL AT WHITNEY FIELDS",
+                "storeType": "Sears_Stores",
+                "closeDate": "9999-12-31",
+                "startDate": "1967-08-02",
+                "storeNumber": "0001133",
+                "storeholidays": {
+                    "holidays": [
+                        {
+                            "holidaystartime": "0",
+                            "holidaydate": "0000-0-00",
+                            "holidayclosetime": "0"
+                        }
+                    ]
+                }
+            },
+            "storeservices": {
+                "storeservice": [
+                    {
+                        "servicename": "GIFT REGISTRY",
+                        "servicerank": "1",
+                        "serviceicon": "icon_giftreg.gif"
+                    },
+                    {
+                        "servicename": "STORE PICK UP",
+                        "servicerank": "6",
+                        "serviceicon": "icon_spu.gif"
+                    },
+                    {
+                        "servicename": "Drop-off Location",
+                        "servicerank": "7",
+                        "serviceicon": "icon_repair.gif"
+                    },
+                    {
+                        "servicename": "OPTICAL",
+                        "servicerank": "11",
+                        "serviceicon": "icon_optical.gif"
+                    },
+                    {
+                        "servicename": "TAX SERVICES",
+                        "servicerank": "12",
+                        "serviceicon": "icon_tax.gif"
+                    },
+                    {
+                        "servicename": "LE Shops",
+                        "servicerank": "16",
+                        "serviceicon": "icon_LE.gif"
+                    },
+                    {
+                        "servicename": "HAS WEBSITE",
+                        "servicerank": "18",
+                        "serviceicon": "icon_website.gif"
+                    },
+                    {
+                        "servicename": "RESERVE AND PAY",
+                        "servicerank": "19",
+                        "serviceicon": "icon_respay.gif"
+                    },
+                    {
+                        "servicename": "SHIP FROM STORE",
+                        "servicerank": "27",
+                        "serviceicon": "icon_sfs.gif"
+                    },
+                    {
+                        "servicename": "Free WiFi",
+                        "servicerank": "31",
+                        "serviceicon": "icon_wifi.gif"
+                    },
+                    {
+                        "servicename": "Cross Format STS",
+                        "servicerank": "39",
+                        "serviceicon": "icon_crossformatsts.gif"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "venue": {
+            "hereNow": {
+                "summary": "0 people here",
+                "count": 0,
+                "groups": []
+            },
+            "id": "50b7f73ee4b0fb1ae1d5e3f0",
+            "location": {
+                "state": "MA",
+                "cc": "US",
+                "lat": 42.30105470240207,
+                "lng": -71.38221991818365,
+                "country": "United States",
+                "city": "Natick",
+                "distance": 39081,
+                "postalCode": "01760"
+            },
+            "referralId": "v-1402968892",
+            "name": "Sears Portrait Studio",
+            "stats": {
+                "tipCount": 0,
+                "checkinsCount": 5,
+                "usersCount": 4
+            },
+            "contact": {},
+            "specials": {
+                "items": [],
+                "count": 0
+            },
+            "verified": false,
+            "categories": [
+                {
+                    "id": "4eb1bdde3b7b55596b4a7490",
+                    "pluralName": "Photography Labs",
+                    "icon": {
+                        "suffix": ".png",
+                        "prefix": "https://ss1.4sqi.net/img/categories_v2/shops/photographylab_"
+                    },
+                    "name": "Photography Lab",
+                    "primary": true,
+                    "shortName": "Photography Lab"
+                }
+            ]
+        },
+        "store": {
+            "contactdetails": {
+                "storephones": {
+                    "storephone": "5086502800",
+                    "pharmphone": "#"
+                },
+                "storeworkinhHours": {
+                    "thuopentime": "34200",
+                    "monopentime": "34200",
+                    "sunopentime": "36000",
+                    "friopentime": "34200",
+                    "satopentime": "32400",
+                    "friclosetime": "75600",
+                    "wedopentime": "34200",
+                    "weekdayclosetime": "75600",
+                    "weekdayopentime": "34200",
+                    "wedclosetime": "75600",
+                    "tueopentime": "34200",
+                    "satclosetime": "75600",
+                    "tueclosetime": "75600",
+                    "monclosetime": "75600",
+                    "sunclosetime": "66600",
+                    "thuclosetime": "75600"
+                }
+            },
+            "location": {
+                "address": {
+                    "state": "MA",
+                    "city": "NATICK",
+                    "fullstatename": "MASSACHUSETTS",
+                    "county": "",
+                    "country": "US",
+                    "zipcode": "01760",
+                    "streetaddress": "1235 WORCESTER RD SPLEEN ST"
+                },
+                "latitude": "42.3010792280196",
+                "distance": "832.239919763098",
+                "longitude": "-71.3814100201507"
+            },
+            "storeinfo": {
+                "storeName": "NATICK - A",
+                "storeType": "Sears_Stores",
+                "closeDate": "9999-12-31",
+                "startDate": "1993-09-30",
+                "storeNumber": "0001403",
+                "storeholidays": {
+                    "holidays": [
+                        {
+                            "holidaystartime": "0",
+                            "holidaydate": "0000-0-00",
+                            "holidayclosetime": "0"
+                        }
+                    ]
+                }
+            },
+            "storeservices": {
+                "storeservice": [
+                    {
+                        "servicename": "GIFT REGISTRY",
+                        "servicerank": "1",
+                        "serviceicon": "icon_giftreg.gif"
+                    },
+                    {
+                        "servicename": "PORTRAIT STUDIO",
+                        "servicerank": "4",
+                        "serviceicon": "icon_portraits.gif"
+                    },
+                    {
+                        "servicename": "STORE PICK UP",
+                        "servicerank": "6",
+                        "serviceicon": "icon_spu.gif"
+                    },
+                    {
+                        "servicename": "WATCH REPAIR",
+                        "servicerank": "8",
+                        "serviceicon": "icon_watch.gif"
+                    },
+                    {
+                        "servicename": "HEARING AIDS",
+                        "servicerank": "10",
+                        "serviceicon": "icon_hearingaid.gif"
+                    },
+                    {
+                        "servicename": "OPTICAL",
+                        "servicerank": "11",
+                        "serviceicon": "icon_optical.gif"
+                    },
+                    {
+                        "servicename": "TAX SERVICES",
+                        "servicerank": "12",
+                        "serviceicon": "icon_tax.gif"
+                    },
+                    {
+                        "servicename": "Hair Salon",
+                        "servicerank": "13",
+                        "serviceicon": "icon_hairsalon.gif"
+                    },
+                    {
+                        "servicename": "LE Home Shop",
+                        "servicerank": "15",
+                        "serviceicon": "icon_LEH.gif"
+                    },
+                    {
+                        "servicename": "LE Shops",
+                        "servicerank": "16",
+                        "serviceicon": "icon_LE.gif"
+                    },
+                    {
+                        "servicename": "RESERVE AND PAY",
+                        "servicerank": "19",
+                        "serviceicon": "icon_respay.gif"
+                    },
+                    {
+                        "servicename": "Free WiFi",
+                        "servicerank": "31",
+                        "serviceicon": "icon_wifi.gif"
+                    },
+                    {
+                        "servicename": "Cross Format STS",
+                        "servicerank": "39",
+                        "serviceicon": "icon_crossformatsts.gif"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "venue": {
+            "hereNow": {
+                "summary": "0 people here",
+                "count": 0,
+                "groups": []
+            },
+            "id": "4fea9eeee4b0fca588e4ed98",
+            "location": {
+                "lat": 42.29951,
+                "state": "MA",
+                "cc": "US",
+                "address": "1235 Worcester Rd",
+                "lng": -71.382339,
+                "country": "United States",
+                "city": "Natick",
+                "distance": 39024,
+                "postalCode": "01760"
+            },
+            "referralId": "v-1402968892",
+            "name": "Sears Hearing Aid Center by Miracle-Ear (inside Sears)",
+            "stats": {
+                "tipCount": 0,
+                "checkinsCount": 0,
+                "usersCount": 0
+            },
+            "contact": {
+                "formattedPhone": "(508) 476-6092",
+                "phone": "5084766092"
+            },
+            "specials": {
+                "items": [],
+                "count": 0
+            },
+            "url": "http://www.miracle-ear-natick.com",
+            "verified": true,
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d177941735",
+                    "pluralName": "Doctor's Offices",
+                    "icon": {
+                        "suffix": ".png",
+                        "prefix": "https://ss1.4sqi.net/img/categories_v2/building/medical_doctorsoffice_"
+                    },
+                    "name": "Doctor's Office",
+                    "primary": true,
+                    "shortName": "Doctor's Office"
+                }
+            ]
+        },
+        "store": {
+            "contactdetails": {
+                "storephones": {
+                    "storephone": "5086502800",
+                    "pharmphone": "#"
+                },
+                "storeworkinhHours": {
+                    "thuopentime": "34200",
+                    "monopentime": "34200",
+                    "sunopentime": "36000",
+                    "friopentime": "34200",
+                    "satopentime": "32400",
+                    "friclosetime": "75600",
+                    "wedopentime": "34200",
+                    "weekdayclosetime": "75600",
+                    "weekdayopentime": "34200",
+                    "wedclosetime": "75600",
+                    "tueopentime": "34200",
+                    "satclosetime": "75600",
+                    "tueclosetime": "75600",
+                    "monclosetime": "75600",
+                    "sunclosetime": "66600",
+                    "thuclosetime": "75600"
+                }
+            },
+            "location": {
+                "address": {
+                    "state": "MA",
+                    "city": "NATICK",
+                    "fullstatename": "MASSACHUSETTS",
+                    "county": "",
+                    "country": "US",
+                    "zipcode": "01760",
+                    "streetaddress": "1235 WORCESTER RD SPLEEN ST"
+                },
+                "latitude": "42.3010792280196",
+                "distance": "832.239919763098",
+                "longitude": "-71.3814100201507"
+            },
+            "storeinfo": {
+                "storeName": "NATICK - A",
+                "storeType": "Sears_Stores",
+                "closeDate": "9999-12-31",
+                "startDate": "1993-09-30",
+                "storeNumber": "0001403",
+                "storeholidays": {
+                    "holidays": [
+                        {
+                            "holidaystartime": "0",
+                            "holidaydate": "0000-0-00",
+                            "holidayclosetime": "0"
+                        }
+                    ]
+                }
+            },
+            "storeservices": {
+                "storeservice": [
+                    {
+                        "servicename": "GIFT REGISTRY",
+                        "servicerank": "1",
+                        "serviceicon": "icon_giftreg.gif"
+                    },
+                    {
+                        "servicename": "PORTRAIT STUDIO",
+                        "servicerank": "4",
+                        "serviceicon": "icon_portraits.gif"
+                    },
+                    {
+                        "servicename": "STORE PICK UP",
+                        "servicerank": "6",
+                        "serviceicon": "icon_spu.gif"
+                    },
+                    {
+                        "servicename": "WATCH REPAIR",
+                        "servicerank": "8",
+                        "serviceicon": "icon_watch.gif"
+                    },
+                    {
+                        "servicename": "HEARING AIDS",
+                        "servicerank": "10",
+                        "serviceicon": "icon_hearingaid.gif"
+                    },
+                    {
+                        "servicename": "OPTICAL",
+                        "servicerank": "11",
+                        "serviceicon": "icon_optical.gif"
+                    },
+                    {
+                        "servicename": "TAX SERVICES",
+                        "servicerank": "12",
+                        "serviceicon": "icon_tax.gif"
+                    },
+                    {
+                        "servicename": "Hair Salon",
+                        "servicerank": "13",
+                        "serviceicon": "icon_hairsalon.gif"
+                    },
+                    {
+                        "servicename": "LE Home Shop",
+                        "servicerank": "15",
+                        "serviceicon": "icon_LEH.gif"
+                    },
+                    {
+                        "servicename": "LE Shops",
+                        "servicerank": "16",
+                        "serviceicon": "icon_LE.gif"
+                    },
+                    {
+                        "servicename": "RESERVE AND PAY",
+                        "servicerank": "19",
+                        "serviceicon": "icon_respay.gif"
+                    },
+                    {
+                        "servicename": "Free WiFi",
+                        "servicerank": "31",
+                        "serviceicon": "icon_wifi.gif"
+                    },
+                    {
+                        "servicename": "Cross Format STS",
+                        "servicerank": "39",
+                        "serviceicon": "icon_crossformatsts.gif"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "venue": {
+            "hereNow": {
+                "summary": "0 people here",
+                "count": 0,
+                "groups": []
+            },
+            "storeId": "6503",
+            "location": {
+                "lat": 42.53050424158573,
+                "state": "MA",
+                "cc": "US",
+                "address": "100 Commercial Rd",
+                "lng": -71.74026198685169,
+                "country": "United States",
+                "city": "Leominster",
+                "distance": 37463,
+                "postalCode": "01453"
+            },
+            "referralId": "v-1402968892",
+            "categories": [
+                {
+                    "id": "4eb1c1623b7b52c0e1adc2ec",
+                    "pluralName": "Car Dealerships",
+                    "icon": {
+                        "suffix": ".png",
+                        "prefix": "https://ss1.4sqi.net/img/categories_v2/shops/automotive_"
+                    },
+                    "name": "Car Dealership",
+                    "primary": true,
+                    "shortName": "Car Dealer"
+                }
+            ],
+            "specials": {
+                "items": [],
+                "count": 0
+            },
+            "url": "http://t.co/ckTNI9ym6m",
+            "id": "4c1e3118b306c9286c9e66b7",
+            "name": "Sears Auto Center",
+            "contact": {
+                "twitter": "searsauto",
+                "formattedPhone": "(978) 534-2295",
+                "phone": "9785342295"
+            },
+            "verified": true,
+            "stats": {
+                "tipCount": 0,
+                "checkinsCount": 229,
+                "usersCount": 55
+            }
+        },
+        "store": {
+            "contactdetails": {
+                "storephones": {
+                    "storephone": "9785342295",
+                    "pharmphone": "#"
+                },
+                "storeworkinhHours": {
+                    "thuopentime": "28800",
+                    "monopentime": "28800",
+                    "sunopentime": "36000",
+                    "friopentime": "28800",
+                    "satopentime": "28800",
+                    "friclosetime": "68400",
+                    "wedopentime": "28800",
+                    "weekdayclosetime": "68400",
+                    "weekdayopentime": "28800",
+                    "wedclosetime": "68400",
+                    "tueopentime": "28800",
+                    "satclosetime": "64800",
+                    "tueclosetime": "68400",
+                    "monclosetime": "68400",
+                    "sunclosetime": "61200",
+                    "thuclosetime": "68400"
+                }
+            },
+            "location": {
+                "address": {
+                    "state": "MA",
+                    "city": "LEOMINSTER",
+                    "fullstatename": "MASSACHUSETTS",
+                    "county": "",
+                    "country": "US",
+                    "zipcode": "01453    ",
+                    "streetaddress": "100 COMMERCIAL RD"
+                },
+                "latitude": "42.52961",
+                "distance": "813.1979861217253",
+                "longitude": "-71.739659"
+            },
+            "storeinfo": {
+                "storeName": "SEARS AUTO CENTER",
+                "storeType": "Sears_Auto_Centers",
+                "closeDate": "9999-12-31",
+                "startDate": "1967-08-02",
+                "storeNumber": "0006503",
+                "storeholidays": {
+                    "holidays": [
+                        {
+                            "holidaystartime": "0",
+                            "holidaydate": "0000-0-00",
+                            "holidayclosetime": "0"
+                        }
+                    ]
+                }
+            },
+            "storeservices": {
+                "storeservice": [
+                    {
+                        "servicename": "STORE PICK UP",
+                        "servicerank": "6",
+                        "serviceicon": "icon_spu.gif"
+                    },
+                    {
+                        "servicename": "Western Union",
+                        "servicerank": "34",
+                        "serviceicon": "icon_westernunion.gif"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "venue": {
+            "hereNow": {
+                "summary": "0 people here",
+                "count": 0,
+                "groups": []
+            },
+            "storeId": "1008",
+            "location": {
+                "lat": 34.024671947017836,
+                "state": "CA",
+                "cc": "US",
+                "address": "2650 E Olympic Blvd",
+                "lng": -118.22066366672514,
+                "country": "United States",
+                "city": "Los Angeles",
+                "distance": 1630,
+                "postalCode": "90023"
+            },
+            "referralId": "v-1402968894",
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d122951735",
+                    "pluralName": "Electronics Stores",
+                    "icon": {
+                        "suffix": ".png",
+                        "prefix": "https://ss1.4sqi.net/img/categories_v2/shops/technology_"
+                    },
+                    "name": "Electronics Store",
+                    "primary": true,
+                    "shortName": "Electronics"
+                }
+            ],
+            "specials": {
+                "items": [],
+                "count": 0
+            },
+            "url": "http://www.sears.com/?sid=ISm21500224x000001",
+            "id": "4b7b47bbf964a520325c2fe3",
+            "name": "Sears",
+            "contact": {
+                "twitter": "sears",
+                "formattedPhone": "(323) 981-2000",
+                "phone": "3239812000"
+            },
+            "verified": true,
+            "stats": {
+                "tipCount": 3,
+                "checkinsCount": 998,
+                "usersCount": 445
+            }
+        },
+        "store": {
+            "contactdetails": {
+                "storephones": {
+                    "storephone": "3232690910",
+                    "pharmphone": "#"
+                },
+                "storeworkinhHours": {
+                    "thuopentime": "36000",
+                    "monopentime": "36000",
+                    "sunopentime": "0",
+                    "friopentime": "36000",
+                    "satopentime": "36000",
+                    "friclosetime": "61200",
+                    "wedopentime": "36000",
+                    "weekdayclosetime": "0",
+                    "weekdayopentime": "0",
+                    "wedclosetime": "61200",
+                    "tueopentime": "36000",
+                    "satclosetime": "61200",
+                    "tueclosetime": "61200",
+                    "monclosetime": "61200",
+                    "sunclosetime": "0",
+                    "thuclosetime": "61200"
+                }
+            },
+            "location": {
+                "address": {
+                    "state": "CA",
+                    "city": "LOS ANGELES",
+                    "fullstatename": "CALIFORNIA",
+                    "county": "",
+                    "country": "US",
+                    "zipcode": "900232608",
+                    "streetaddress": "2650 E OLYMPIC BLVD"
+                },
+                "latitude": "34.024811",
+                "distance": "19.776778292263323",
+                "longitude": "-118.221066"
+            },
+            "storeinfo": {
+                "storeName": "LOS ANGELES - BRANCH",
+                "storeType": "Service_Centers_Repair_Drop_off_Locations",
+                "closeDate": "9999-12-31",
+                "startDate": "1968-09-03",
+                "storeNumber": "0008128",
+                "storeholidays": {
+                    "holidays": [
+                        {
+                            "holidaystartime": "0",
+                            "holidaydate": "0000-0-00",
+                            "holidayclosetime": "0"
+                        }
+                    ]
+                }
+            },
+            "storeservices": {
+                "storeservice": [
+                    {
+                        "servicename": "STORE PICK UP",
+                        "servicerank": "6",
+                        "serviceicon": "icon_spu.gif"
+                    },
+                    {
+                        "servicename": "Drop-off Location",
+                        "servicerank": "7",
+                        "serviceicon": "icon_repair.gif"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "venue": {
+            "hereNow": {
+                "summary": "0 people here",
+                "count": 0,
+                "groups": []
+            },
+            "storeId": "6128",
+            "location": {
+                "lat": 34.02411,
+                "state": "CA",
+                "cc": "US",
+                "address": "2711 E Olympic Blvd",
+                "lng": -118.21947,
+                "country": "United States",
+                "city": "Los Angeles",
+                "distance": 1519,
+                "postalCode": "90023"
+            },
+            "referralId": "v-1402968894",
+            "categories": [
+                {
+                    "id": "4eb1c1623b7b52c0e1adc2ec",
+                    "pluralName": "Car Dealerships",
+                    "icon": {
+                        "suffix": ".png",
+                        "prefix": "https://ss1.4sqi.net/img/categories_v2/shops/automotive_"
+                    },
+                    "name": "Car Dealership",
+                    "primary": true,
+                    "shortName": "Car Dealer"
+                }
+            ],
+            "specials": {
+                "items": [],
+                "count": 0
+            },
+            "url": "http://t.co/ckTNI9ym6m",
+            "id": "4e41c1481838ada3db559cf8",
+            "name": "Sears Auto Center",
+            "contact": {
+                "twitter": "searsauto",
+                "formattedPhone": "(323) 981-2094",
+                "phone": "3239812094"
+            },
+            "verified": true,
+            "stats": {
+                "tipCount": 0,
+                "checkinsCount": 73,
+                "usersCount": 48
+            }
+        },
+        "store": {
+            "contactdetails": {
+                "storephones": {
+                    "storephone": "3239812095",
+                    "pharmphone": "#"
+                },
+                "storeworkinhHours": {
+                    "thuopentime": "28800",
+                    "monopentime": "28800",
+                    "sunopentime": "36000",
+                    "friopentime": "28800",
+                    "satopentime": "28800",
+                    "friclosetime": "68400",
+                    "wedopentime": "28800",
+                    "weekdayclosetime": "68400",
+                    "weekdayopentime": "28800",
+                    "wedclosetime": "68400",
+                    "tueopentime": "28800",
+                    "satclosetime": "68400",
+                    "tueclosetime": "68400",
+                    "monclosetime": "68400",
+                    "sunclosetime": "61200",
+                    "thuclosetime": "68400"
+                }
+            },
+            "location": {
+                "address": {
+                    "state": "CA",
+                    "city": "LOS ANGELES",
+                    "fullstatename": "CALIFORNIA",
+                    "county": "",
+                    "country": "US",
+                    "zipcode": "900233409",
+                    "streetaddress": "2711 E OLYMPIC BLVD"
+                },
+                "latitude": "34.024146",
+                "distance": "19.8184921638371",
+                "longitude": "-118.21955"
+            },
+            "storeinfo": {
+                "storeName": "SEARS AUTO CENTER",
+                "storeType": "Sears_Auto_Centers",
+                "closeDate": "9999-12-31",
+                "startDate": "1927-07-24",
+                "storeNumber": "0006128",
+                "storeholidays": {
+                    "holidays": [
+                        {
+                            "holidaystartime": "0",
+                            "holidaydate": "0000-0-00",
+                            "holidayclosetime": "0"
+                        }
+                    ]
+                }
+            },
+            "storeservices": {
+                "storeservice": [
+                    {
+                        "servicename": "STORE PICK UP",
+                        "servicerank": "6",
+                        "serviceicon": "icon_spu.gif"
+                    },
+                    {
+                        "servicename": "Western Union",
+                        "servicerank": "34",
+                        "serviceicon": "icon_westernunion.gif"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "venue": {
+            "hereNow": {
+                "summary": "0 people here",
+                "count": 0,
+                "groups": []
+            },
+            "storeId": "1998",
+            "location": {
+                "lat": 34.03294423737091,
+                "state": "CA",
+                "cc": "US",
+                "address": "1401 N Montebello Blvd",
+                "lng": -118.09511351533804,
+                "country": "United States",
+                "city": "Montebello",
+                "distance": 9999,
+                "postalCode": "90640"
+            },
+            "referralId": "v-1402968894",
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d122951735",
+                    "pluralName": "Electronics Stores",
+                    "icon": {
+                        "suffix": ".png",
+                        "prefix": "https://ss1.4sqi.net/img/categories_v2/shops/technology_"
+                    },
+                    "name": "Electronics Store",
+                    "primary": true,
+                    "shortName": "Electronics"
+                }
+            ],
+            "specials": {
+                "items": [],
+                "count": 0
+            },
+            "url": "http://bit.ly/Sears4sq",
+            "id": "4b9c2f8ff964a520b05236e3",
+            "name": "Sears",
+            "contact": {
+                "twitter": "sears",
+                "formattedPhone": "(323) 889-5600",
+                "phone": "3238895600"
+            },
+            "verified": true,
+            "stats": {
+                "tipCount": 2,
+                "checkinsCount": 599,
+                "usersCount": 319
+            }
+        },
+        "store": {
+            "contactdetails": {
+                "storephones": {
+                    "storephone": "3238895600",
+                    "pharmphone": "#"
+                },
+                "storeworkinhHours": {
+                    "thuopentime": "36000",
+                    "monopentime": "36000",
+                    "sunopentime": "36000",
+                    "friopentime": "36000",
+                    "satopentime": "32400",
+                    "friclosetime": "75600",
+                    "wedopentime": "36000",
+                    "weekdayclosetime": "75600",
+                    "weekdayopentime": "36000",
+                    "wedclosetime": "75600",
+                    "tueopentime": "36000",
+                    "satclosetime": "75600",
+                    "tueclosetime": "75600",
+                    "monclosetime": "75600",
+                    "sunclosetime": "72000",
+                    "thuclosetime": "75600"
+                }
+            },
+            "location": {
+                "address": {
+                    "state": "CA",
+                    "city": "MONTEBELLO",
+                    "fullstatename": "CALIFORNIA",
+                    "county": "",
+                    "country": "US",
+                    "zipcode": "906402584",
+                    "streetaddress": "1401 N MONTEBELLO BLVD"
+                },
+                "latitude": "34.0331397705341",
+                "distance": "20.14518954789903",
+                "longitude": "-118.095614560619"
+            },
+            "storeinfo": {
+                "storeName": "MONTEBELLO - A",
+                "storeType": "Sears_Stores",
+                "closeDate": "9999-12-31",
+                "startDate": "1992-02-19",
+                "storeNumber": "0001998",
+                "storeholidays": {
+                    "holidays": [
+                        {
+                            "holidaystartime": "0",
+                            "holidaydate": "0000-0-00",
+                            "holidayclosetime": "0"
+                        }
+                    ]
+                }
+            },
+            "storeservices": {
+                "storeservice": [
+                    {
+                        "servicename": "GIFT REGISTRY",
+                        "servicerank": "1",
+                        "serviceicon": "icon_giftreg.gif"
+                    },
+                    {
+                        "servicename": "STORE PICK UP",
+                        "servicerank": "6",
+                        "serviceicon": "icon_spu.gif"
+                    },
+                    {
+                        "servicename": "Drop-off Location",
+                        "servicerank": "7",
+                        "serviceicon": "icon_repair.gif"
+                    },
+                    {
+                        "servicename": "OPTICAL",
+                        "servicerank": "11",
+                        "serviceicon": "icon_optical.gif"
+                    },
+                    {
+                        "servicename": "TAX SERVICES",
+                        "servicerank": "12",
+                        "serviceicon": "icon_tax.gif"
+                    },
+                    {
+                        "servicename": "RESERVE AND PAY",
+                        "servicerank": "19",
+                        "serviceicon": "icon_respay.gif"
+                    },
+                    {
+                        "servicename": "Cross Format STS",
+                        "servicerank": "39",
+                        "serviceicon": "icon_crossformatsts.gif"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "venue": {
+            "hereNow": {
+                "summary": "0 people here",
+                "count": 0,
+                "groups": []
+            },
+            "storeId": "1018",
+            "location": {
+                "lat": 34.00963372051783,
+                "state": "CA",
+                "cc": "US",
+                "address": "3755 Santa Rosalia Dr.",
+                "lng": -118.33756246676045,
+                "country": "United States",
+                "city": "Los Angeles",
+                "distance": 12522,
+                "postalCode": "90008"
+            },
+            "referralId": "v-1402968894",
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d1f6941735",
+                    "pluralName": "Department Stores",
+                    "icon": {
+                        "suffix": ".png",
+                        "prefix": "https://ss1.4sqi.net/img/categories_v2/shops/departmentstore_"
+                    },
+                    "name": "Department Store",
+                    "primary": true,
+                    "shortName": "Department Store"
+                }
+            ],
+            "specials": {
+                "items": [],
+                "count": 0
+            },
+            "url": "http://www.sears.com/?sid=ISm21500224x000001",
+            "id": "4b50d6e5f964a520a53427e3",
+            "name": "Sears",
+            "contact": {
+                "twitter": "sears",
+                "formattedPhone": "(323) 290-7200",
+                "phone": "3232907200"
+            },
+            "verified": true,
+            "stats": {
+                "tipCount": 6,
+                "checkinsCount": 703,
+                "usersCount": 380
+            }
+        },
+        "store": {
+            "contactdetails": {
+                "storephones": {
+                    "storephone": "3232907200",
+                    "pharmphone": null
+                },
+                "storeworkinhHours": {
+                    "thuopentime": "36000",
+                    "monopentime": "36000",
+                    "sunopentime": "39600",
+                    "friopentime": "36000",
+                    "satopentime": "36000",
+                    "friclosetime": "75600",
+                    "wedopentime": "36000",
+                    "weekdayclosetime": "75600",
+                    "weekdayopentime": "36000",
+                    "wedclosetime": "75600",
+                    "tueopentime": "36000",
+                    "satclosetime": "75600",
+                    "tueclosetime": "75600",
+                    "monclosetime": "75600",
+                    "sunclosetime": "72000",
+                    "thuclosetime": "75600"
+                }
+            },
+            "location": {
+                "address": {
+                    "state": "CA",
+                    "city": "LOS ANGELES",
+                    "fullstatename": "CALIFORNIA",
+                    "county": "",
+                    "country": "US",
+                    "zipcode": "900083603",
+                    "streetaddress": "3755 SANTA ROSALIA DR"
+                },
+                "latitude": "34.0094617400035",
+                "distance": "22.174147242542617",
+                "longitude": "-118.337422661024"
+            },
+            "storeinfo": {
+                "storeName": "BALDWIN HILLS MALL",
+                "storeType": "Sears_Stores",
+                "closeDate": "9999-12-31",
+                "startDate": "1988-10-28",
+                "storeNumber": "0001018",
+                "storeholidays": {
+                    "holidays": [
+                        {
+                            "holidaystartime": "0",
+                            "holidaydate": "0000-0-00",
+                            "holidayclosetime": "0"
+                        }
+                    ]
+                }
+            },
+            "storeservices": {
+                "storeservice": [
+                    {
+                        "servicename": "GIFT REGISTRY",
+                        "servicerank": "1",
+                        "serviceicon": "icon_giftreg.gif"
+                    },
+                    {
+                        "servicename": "STORE PICK UP",
+                        "servicerank": "6",
+                        "serviceicon": "icon_spu.gif"
+                    },
+                    {
+                        "servicename": "Drop-off Location",
+                        "servicerank": "7",
+                        "serviceicon": "icon_repair.gif"
+                    },
+                    {
+                        "servicename": "WATCH REPAIR",
+                        "servicerank": "8",
+                        "serviceicon": "icon_watch.gif"
+                    },
+                    {
+                        "servicename": "OPTICAL",
+                        "servicerank": "11",
+                        "serviceicon": "icon_optical.gif"
+                    },
+                    {
+                        "servicename": "TAX SERVICES",
+                        "servicerank": "12",
+                        "serviceicon": "icon_tax.gif"
+                    },
+                    {
+                        "servicename": "Hair Salon",
+                        "servicerank": "13",
+                        "serviceicon": "icon_hairsalon.gif"
+                    },
+                    {
+                        "servicename": "LE Home Shop",
+                        "servicerank": "15",
+                        "serviceicon": "icon_LEH.gif"
+                    },
+                    {
+                        "servicename": "RESERVE AND PAY",
+                        "servicerank": "19",
+                        "serviceicon": "icon_respay.gif"
+                    },
+                    {
+                        "servicename": "Free WiFi",
+                        "servicerank": "31",
+                        "serviceicon": "icon_wifi.gif"
+                    },
+                    {
+                        "servicename": "Cross Format STS",
+                        "servicerank": "39",
+                        "serviceicon": "icon_crossformatsts.gif"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "venue": {
+            "hereNow": {
+                "summary": "0 people here",
+                "count": 0,
+                "groups": []
+            },
+            "storeId": "1309",
+            "location": {
+                "lat": 33.93470457578973,
+                "crossStreet": "Firestone Blvd",
+                "state": "CA",
+                "cc": "US",
+                "address": "500 Stonewood St",
+                "lng": -118.11793987379617,
+                "country": "United States",
+                "city": "Downey",
+                "distance": 12693,
+                "postalCode": "90241"
+            },
+            "referralId": "v-1402968894",
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d122951735",
+                    "pluralName": "Electronics Stores",
+                    "icon": {
+                        "suffix": ".png",
+                        "prefix": "https://ss1.4sqi.net/img/categories_v2/shops/technology_"
+                    },
+                    "name": "Electronics Store",
+                    "primary": true,
+                    "shortName": "Electronics"
+                }
+            ],
+            "specials": {
+                "items": [],
+                "count": 0
+            },
+            "url": "http://bit.ly/Sears4sq",
+            "id": "4c86621e30789c74855473e3",
+            "name": "Sears",
+            "contact": {
+                "twitter": "sears",
+                "formattedPhone": "(562) 622-2600",
+                "phone": "5626222600"
+            },
+            "verified": true,
+            "stats": {
+                "tipCount": 11,
+                "checkinsCount": 585,
+                "usersCount": 301
+            }
+        },
+        "store": {
+            "contactdetails": {
+                "storephones": {
+                    "storephone": "5626222600",
+                    "pharmphone": "#"
+                },
+                "storeworkinhHours": {
+                    "thuopentime": "36000",
+                    "monopentime": "36000",
+                    "sunopentime": "36000",
+                    "friopentime": "36000",
+                    "satopentime": "36000",
+                    "friclosetime": "75600",
+                    "wedopentime": "36000",
+                    "weekdayclosetime": "75600",
+                    "weekdayopentime": "36000",
+                    "wedclosetime": "75600",
+                    "tueopentime": "36000",
+                    "satclosetime": "75600",
+                    "tueclosetime": "75600",
+                    "monclosetime": "75600",
+                    "sunclosetime": "72000",
+                    "thuclosetime": "75600"
+                }
+            },
+            "location": {
+                "address": {
+                    "state": "CA",
+                    "city": "DOWNEY",
+                    "fullstatename": "CALIFORNIA",
+                    "county": "",
+                    "country": "US",
+                    "zipcode": "902413920",
+                    "streetaddress": "500 STONEWOOD ST"
+                },
+                "latitude": "33.9346503483428",
+                "distance": "26.440545009209966",
+                "longitude": "-118.117831681185"
+            },
+            "storeinfo": {
+                "storeName": "STONEWOOD S/C",
+                "storeType": "Sears_Stores",
+                "closeDate": "9999-12-31",
+                "startDate": "1996-10-30",
+                "storeNumber": "0001309",
+                "storeholidays": {
+                    "holidays": [
+                        {
+                            "holidaystartime": "0",
+                            "holidaydate": "0000-0-00",
+                            "holidayclosetime": "0"
+                        }
+                    ]
+                }
+            },
+            "storeservices": {
+                "storeservice": [
+                    {
+                        "servicename": "GIFT REGISTRY",
+                        "servicerank": "1",
+                        "serviceicon": "icon_giftreg.gif"
+                    },
+                    {
+                        "servicename": "STORE PICK UP",
+                        "servicerank": "6",
+                        "serviceicon": "icon_spu.gif"
+                    },
+                    {
+                        "servicename": "WATCH REPAIR",
+                        "servicerank": "8",
+                        "serviceicon": "icon_watch.gif"
+                    },
+                    {
+                        "servicename": "OPTICAL",
+                        "servicerank": "11",
+                        "serviceicon": "icon_optical.gif"
+                    },
+                    {
+                        "servicename": "TAX SERVICES",
+                        "servicerank": "12",
+                        "serviceicon": "icon_tax.gif"
+                    },
+                    {
+                        "servicename": "Hair Salon",
+                        "servicerank": "13",
+                        "serviceicon": "icon_hairsalon.gif"
+                    },
+                    {
+                        "servicename": "LE Home Shop",
+                        "servicerank": "15",
+                        "serviceicon": "icon_LEH.gif"
+                    },
+                    {
+                        "servicename": "RESERVE AND PAY",
+                        "servicerank": "19",
+                        "serviceicon": "icon_respay.gif"
+                    },
+                    {
+                        "servicename": "Free WiFi",
+                        "servicerank": "31",
+                        "serviceicon": "icon_wifi.gif"
+                    },
+                    {
+                        "servicename": "Cross Format STS",
+                        "servicerank": "39",
+                        "serviceicon": "icon_crossformatsts.gif"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "venue": {
+            "hereNow": {
+                "summary": "0 people here",
+                "count": 0,
+                "groups": []
+            },
+            "storeId": "1088",
+            "location": {
+                "lat": 34.149356396238744,
+                "state": "CA",
+                "cc": "US",
+                "address": "236 N Central Ave",
+                "lng": -118.25735328068717,
+                "country": "United States",
+                "city": "Glendale",
+                "distance": 14795,
+                "postalCode": "91203"
+            },
+            "referralId": "v-1402968894",
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d122951735",
+                    "pluralName": "Electronics Stores",
+                    "icon": {
+                        "suffix": ".png",
+                        "prefix": "https://ss1.4sqi.net/img/categories_v2/shops/technology_"
+                    },
+                    "name": "Electronics Store",
+                    "primary": true,
+                    "shortName": "Electronics"
+                }
+            ],
+            "specials": {
+                "items": [],
+                "count": 0
+            },
+            "url": "http://www.sears.com/?sid=ISm21500224x000001",
+            "id": "4bb7b81f7421a59310f1c040",
+            "name": "Sears",
+            "contact": {
+                "twitter": "sears",
+                "formattedPhone": "(818) 507-7200",
+                "phone": "8185077200"
+            },
+            "verified": true,
+            "stats": {
+                "tipCount": 9,
+                "checkinsCount": 911,
+                "usersCount": 509
+            }
+        },
+        "store": {
+            "contactdetails": {
+                "storephones": {
+                    "storephone": "8185077200",
+                    "pharmphone": null
+                },
+                "storeworkinhHours": {
+                    "thuopentime": "36000",
+                    "monopentime": "36000",
+                    "sunopentime": "36000",
+                    "friopentime": "36000",
+                    "satopentime": "36000",
+                    "friclosetime": "75600",
+                    "wedopentime": "36000",
+                    "weekdayclosetime": "75600",
+                    "weekdayopentime": "36000",
+                    "wedclosetime": "75600",
+                    "tueopentime": "36000",
+                    "satclosetime": "75600",
+                    "tueclosetime": "75600",
+                    "monclosetime": "75600",
+                    "sunclosetime": "72000",
+                    "thuclosetime": "75600"
+                }
+            },
+            "location": {
+                "address": {
+                    "state": "CA",
+                    "city": "GLENDALE",
+                    "fullstatename": "CALIFORNIA",
+                    "county": "",
+                    "country": "US",
+                    "zipcode": "912032532",
+                    "streetaddress": "236 N CENTRAL AVE"
+                },
+                "latitude": "34.1495220443245",
+                "distance": "11.550782678225351",
+                "longitude": "-118.257400051623"
+            },
+            "storeinfo": {
+                "storeName": "GLENDALE - A",
+                "storeType": "Sears_Stores",
+                "closeDate": "9999-12-31",
+                "startDate": "1937-11-19",
+                "storeNumber": "0001088",
+                "storeholidays": {
+                    "holidays": [
+                        {
+                            "holidaystartime": "0",
+                            "holidaydate": "0000-0-00",
+                            "holidayclosetime": "0"
+                        }
+                    ]
+                }
+            },
+            "storeservices": {
+                "storeservice": [
+                    {
+                        "servicename": "GIFT REGISTRY",
+                        "servicerank": "1",
+                        "serviceicon": "icon_giftreg.gif"
+                    },
+                    {
+                        "servicename": "STORE PICK UP",
+                        "servicerank": "6",
+                        "serviceicon": "icon_spu.gif"
+                    },
+                    {
+                        "servicename": "WATCH REPAIR",
+                        "servicerank": "8",
+                        "serviceicon": "icon_watch.gif"
+                    },
+                    {
+                        "servicename": "HEARING AIDS",
+                        "servicerank": "10",
+                        "serviceicon": "icon_hearingaid.gif"
+                    },
+                    {
+                        "servicename": "OPTICAL",
+                        "servicerank": "11",
+                        "serviceicon": "icon_optical.gif"
+                    },
+                    {
+                        "servicename": "TAX SERVICES",
+                        "servicerank": "12",
+                        "serviceicon": "icon_tax.gif"
+                    },
+                    {
+                        "servicename": "Hair Salon",
+                        "servicerank": "13",
+                        "serviceicon": "icon_hairsalon.gif"
+                    },
+                    {
+                        "servicename": "RESERVE AND PAY",
+                        "servicerank": "19",
+                        "serviceicon": "icon_respay.gif"
+                    },
+                    {
+                        "servicename": "SHIP FROM STORE",
+                        "servicerank": "27",
+                        "serviceicon": "icon_sfs.gif"
+                    },
+                    {
+                        "servicename": "Free WiFi",
+                        "servicerank": "31",
+                        "serviceicon": "icon_wifi.gif"
+                    },
+                    {
+                        "servicename": "Cross Format STS",
+                        "servicerank": "39",
+                        "serviceicon": "icon_crossformatsts.gif"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "venue": {
+            "hereNow": {
+                "summary": "0 people here",
+                "count": 0,
+                "groups": []
+            },
+            "id": "4c8ff30c352da1cd79870db2",
+            "location": {
+                "lat": 34.032532,
+                "state": "CA",
+                "cc": "US",
+                "address": "1401 N Montebello Blvd",
+                "lng": -118.094906,
+                "country": "United States",
+                "city": "Montebello",
+                "distance": 10014,
+                "postalCode": "90640"
+            },
+            "referralId": "v-1402968894",
+            "name": "Sears Optical",
+            "stats": {
+                "tipCount": 0,
+                "checkinsCount": 5,
+                "usersCount": 5
+            },
+            "contact": {},
+            "specials": {
+                "items": [],
+                "count": 0
+            },
+            "verified": false,
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d1ff941735",
+                    "pluralName": "Miscellaneous Shops",
+                    "icon": {
+                        "suffix": ".png",
+                        "prefix": "https://ss1.4sqi.net/img/categories_v2/shops/default_"
+                    },
+                    "name": "Miscellaneous Shop",
+                    "primary": true,
+                    "shortName": "Shop"
+                }
+            ]
+        },
+        "store": {
+            "contactdetails": {
+                "storephones": {
+                    "storephone": "3238895600",
+                    "pharmphone": "#"
+                },
+                "storeworkinhHours": {
+                    "thuopentime": "36000",
+                    "monopentime": "36000",
+                    "sunopentime": "36000",
+                    "friopentime": "36000",
+                    "satopentime": "32400",
+                    "friclosetime": "75600",
+                    "wedopentime": "36000",
+                    "weekdayclosetime": "75600",
+                    "weekdayopentime": "36000",
+                    "wedclosetime": "75600",
+                    "tueopentime": "36000",
+                    "satclosetime": "75600",
+                    "tueclosetime": "75600",
+                    "monclosetime": "75600",
+                    "sunclosetime": "72000",
+                    "thuclosetime": "75600"
+                }
+            },
+            "location": {
+                "address": {
+                    "state": "CA",
+                    "city": "MONTEBELLO",
+                    "fullstatename": "CALIFORNIA",
+                    "county": "",
+                    "country": "US",
+                    "zipcode": "906402584",
+                    "streetaddress": "1401 N MONTEBELLO BLVD"
+                },
+                "latitude": "34.0331397705341",
+                "distance": "20.14518954789903",
+                "longitude": "-118.095614560619"
+            },
+            "storeinfo": {
+                "storeName": "MONTEBELLO - A",
+                "storeType": "Sears_Stores",
+                "closeDate": "9999-12-31",
+                "startDate": "1992-02-19",
+                "storeNumber": "0001998",
+                "storeholidays": {
+                    "holidays": [
+                        {
+                            "holidaystartime": "0",
+                            "holidaydate": "0000-0-00",
+                            "holidayclosetime": "0"
+                        }
+                    ]
+                }
+            },
+            "storeservices": {
+                "storeservice": [
+                    {
+                        "servicename": "GIFT REGISTRY",
+                        "servicerank": "1",
+                        "serviceicon": "icon_giftreg.gif"
+                    },
+                    {
+                        "servicename": "STORE PICK UP",
+                        "servicerank": "6",
+                        "serviceicon": "icon_spu.gif"
+                    },
+                    {
+                        "servicename": "Drop-off Location",
+                        "servicerank": "7",
+                        "serviceicon": "icon_repair.gif"
+                    },
+                    {
+                        "servicename": "OPTICAL",
+                        "servicerank": "11",
+                        "serviceicon": "icon_optical.gif"
+                    },
+                    {
+                        "servicename": "TAX SERVICES",
+                        "servicerank": "12",
+                        "serviceicon": "icon_tax.gif"
+                    },
+                    {
+                        "servicename": "RESERVE AND PAY",
+                        "servicerank": "19",
+                        "serviceicon": "icon_respay.gif"
+                    },
+                    {
+                        "servicename": "Cross Format STS",
+                        "servicerank": "39",
+                        "serviceicon": "icon_crossformatsts.gif"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "venue": {
+            "hereNow": {
+                "summary": "0 people here",
+                "count": 0,
+                "groups": []
+            },
+            "storeId": "1048",
+            "location": {
+                "lat": 34.15156521870585,
+                "crossStreet": "at Rosemead Blvd.",
+                "state": "CA",
+                "cc": "US",
+                "address": "3801 E Foothill Blvd",
+                "lng": -118.07091227280353,
+                "country": "United States",
+                "city": "Pasadena",
+                "distance": 18681,
+                "postalCode": "91107"
+            },
+            "referralId": "v-1402968894",
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d1f6941735",
+                    "pluralName": "Department Stores",
+                    "icon": {
+                        "suffix": ".png",
+                        "prefix": "https://ss1.4sqi.net/img/categories_v2/shops/departmentstore_"
+                    },
+                    "name": "Department Store",
+                    "primary": true,
+                    "shortName": "Department Store"
+                }
+            ],
+            "specials": {
+                "items": [],
+                "count": 0
+            },
+            "url": "http://www.sears.com",
+            "id": "4b0190b6f964a520774322e3",
+            "name": "Sears",
+            "contact": {
+                "twitter": "sears",
+                "formattedPhone": "(626) 351-3400",
+                "phone": "6263513400"
+            },
+            "verified": true,
+            "stats": {
+                "tipCount": 22,
+                "checkinsCount": 3326,
+                "usersCount": 916
+            }
+        },
+        "store": {
+            "contactdetails": {
+                "storephones": {
+                    "storephone": "6263513400",
+                    "pharmphone": null
+                },
+                "storeworkinhHours": {
+                    "thuopentime": "36000",
+                    "monopentime": "36000",
+                    "sunopentime": "36000",
+                    "friopentime": "36000",
+                    "satopentime": "36000",
+                    "friclosetime": "75600",
+                    "wedopentime": "36000",
+                    "weekdayclosetime": "75600",
+                    "weekdayopentime": "36000",
+                    "wedclosetime": "75600",
+                    "tueopentime": "36000",
+                    "satclosetime": "75600",
+                    "tueclosetime": "75600",
+                    "monclosetime": "75600",
+                    "sunclosetime": "72000",
+                    "thuclosetime": "75600"
+                }
+            },
+            "location": {
+                "address": {
+                    "state": "CA",
+                    "city": "PASADENA",
+                    "fullstatename": "CALIFORNIA",
+                    "county": "",
+                    "country": "US",
+                    "zipcode": "911072225",
+                    "streetaddress": "3801 E FOOTHILL BLVD"
+                },
+                "latitude": "34.1513384493907",
+                "distance": "13.381420546437454",
+                "longitude": "-118.07043780087"
+            },
+            "storeinfo": {
+                "storeName": "PASADENA - A",
+                "storeType": "Sears_Stores",
+                "closeDate": "9999-12-31",
+                "startDate": "1957-09-12",
+                "storeNumber": "0001048",
+                "storeholidays": {
+                    "holidays": [
+                        {
+                            "holidaystartime": "0",
+                            "holidaydate": "0000-0-00",
+                            "holidayclosetime": "0"
+                        }
+                    ]
+                }
+            },
+            "storeservices": {
+                "storeservice": [
+                    {
+                        "servicename": "GIFT REGISTRY",
+                        "servicerank": "1",
+                        "serviceicon": "icon_giftreg.gif"
+                    },
+                    {
+                        "servicename": "STORE PICK UP",
+                        "servicerank": "6",
+                        "serviceicon": "icon_spu.gif"
+                    },
+                    {
+                        "servicename": "Drop-off Location",
+                        "servicerank": "7",
+                        "serviceicon": "icon_repair.gif"
+                    },
+                    {
+                        "servicename": "WATCH REPAIR",
+                        "servicerank": "8",
+                        "serviceicon": "icon_watch.gif"
+                    },
+                    {
+                        "servicename": "HEARING AIDS",
+                        "servicerank": "10",
+                        "serviceicon": "icon_hearingaid.gif"
+                    },
+                    {
+                        "servicename": "OPTICAL",
+                        "servicerank": "11",
+                        "serviceicon": "icon_optical.gif"
+                    },
+                    {
+                        "servicename": "TAX SERVICES",
+                        "servicerank": "12",
+                        "serviceicon": "icon_tax.gif"
+                    },
+                    {
+                        "servicename": "Hair Salon",
+                        "servicerank": "13",
+                        "serviceicon": "icon_hairsalon.gif"
+                    },
+                    {
+                        "servicename": "LE Shops",
+                        "servicerank": "16",
+                        "serviceicon": "icon_LE.gif"
+                    },
+                    {
+                        "servicename": "RESERVE AND PAY",
+                        "servicerank": "19",
+                        "serviceicon": "icon_respay.gif"
+                    },
+                    {
+                        "servicename": "Cross Format STS",
+                        "servicerank": "39",
+                        "serviceicon": "icon_crossformatsts.gif"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "venue": {
+            "hereNow": {
+                "summary": "0 people here",
+                "count": 0,
+                "groups": []
+            },
+            "storeId": "1568",
+            "location": {
+                "lat": 33.84530868122253,
+                "crossStreet": "South Bay Pavilion",
+                "state": "CA",
+                "cc": "US",
+                "address": "20700 Avalon Blvd, Ste 100",
+                "lng": -118.26245784759521,
+                "country": "United States",
+                "city": "Carson",
+                "distance": 20667,
+                "postalCode": "90746"
+            },
+            "referralId": "v-1402968894",
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d1f6941735",
+                    "pluralName": "Department Stores",
+                    "icon": {
+                        "suffix": ".png",
+                        "prefix": "https://ss1.4sqi.net/img/categories_v2/shops/departmentstore_"
+                    },
+                    "name": "Department Store",
+                    "primary": true,
+                    "shortName": "Department Store"
+                }
+            ],
+            "specials": {
+                "items": [],
+                "count": 0
+            },
+            "url": "http://bit.ly/Sears4sq",
+            "id": "4c05c4a5761ac9b697122074",
+            "name": "Sears",
+            "contact": {
+                "twitter": "sears",
+                "formattedPhone": "(310) 354-2500",
+                "phone": "3103542500"
+            },
+            "verified": true,
+            "stats": {
+                "tipCount": 6,
+                "checkinsCount": 634,
+                "usersCount": 385
+            }
+        },
+        "store": {
+            "contactdetails": {
+                "storephones": {
+                    "storephone": "3103542500",
+                    "pharmphone": "#"
+                },
+                "storeworkinhHours": {
+                    "thuopentime": "36000",
+                    "monopentime": "36000",
+                    "sunopentime": "36000",
+                    "friopentime": "36000",
+                    "satopentime": "36000",
+                    "friclosetime": "75600",
+                    "wedopentime": "36000",
+                    "weekdayclosetime": "75600",
+                    "weekdayopentime": "36000",
+                    "wedclosetime": "75600",
+                    "tueopentime": "36000",
+                    "satclosetime": "75600",
+                    "tueclosetime": "75600",
+                    "monclosetime": "75600",
+                    "sunclosetime": "72000",
+                    "thuclosetime": "75600"
+                }
+            },
+            "location": {
+                "address": {
+                    "state": "CA",
+                    "city": "CARSON",
+                    "fullstatename": "CALIFORNIA",
+                    "county": "",
+                    "country": "US",
+                    "zipcode": "907463734",
+                    "streetaddress": "20700 S AVALON BLVD STE 100"
+                },
+                "latitude": "33.8455303350332",
+                "distance": "32.31571111313827",
+                "longitude": "-118.262498606987"
+            },
+            "storeinfo": {
+                "storeName": "CARSON MALL",
+                "storeType": "Sears_Stores",
+                "closeDate": "9999-12-31",
+                "startDate": "1973-11-15",
+                "storeNumber": "0001568",
+                "storeholidays": {
+                    "holidays": [
+                        {
+                            "holidaystartime": "0",
+                            "holidaydate": "0000-0-00",
+                            "holidayclosetime": "0"
+                        }
+                    ]
+                }
+            },
+            "storeservices": {
+                "storeservice": [
+                    {
+                        "servicename": "GIFT REGISTRY",
+                        "servicerank": "1",
+                        "serviceicon": "icon_giftreg.gif"
+                    },
+                    {
+                        "servicename": "STORE PICK UP",
+                        "servicerank": "6",
+                        "serviceicon": "icon_spu.gif"
+                    },
+                    {
+                        "servicename": "Drop-off Location",
+                        "servicerank": "7",
+                        "serviceicon": "icon_repair.gif"
+                    },
+                    {
+                        "servicename": "WATCH REPAIR",
+                        "servicerank": "8",
+                        "serviceicon": "icon_watch.gif"
+                    },
+                    {
+                        "servicename": "OPTICAL",
+                        "servicerank": "11",
+                        "serviceicon": "icon_optical.gif"
+                    },
+                    {
+                        "servicename": "TAX SERVICES",
+                        "servicerank": "12",
+                        "serviceicon": "icon_tax.gif"
+                    },
+                    {
+                        "servicename": "Hair Salon",
+                        "servicerank": "13",
+                        "serviceicon": "icon_hairsalon.gif"
+                    },
+                    {
+                        "servicename": "RESERVE AND PAY",
+                        "servicerank": "19",
+                        "serviceicon": "icon_respay.gif"
+                    },
+                    {
+                        "servicename": "SHIP FROM STORE",
+                        "servicerank": "27",
+                        "serviceicon": "icon_sfs.gif"
+                    },
+                    {
+                        "servicename": "Free WiFi",
+                        "servicerank": "31",
+                        "serviceicon": "icon_wifi.gif"
+                    },
+                    {
+                        "servicename": "Cross Format STS",
+                        "servicerank": "39",
+                        "serviceicon": "icon_crossformatsts.gif"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "venue": {
+            "hereNow": {
+                "summary": "0 people here",
+                "count": 0,
+                "groups": []
+            },
+            "storeId": "1838",
+            "location": {
+                "lat": 34.182828091731245,
+                "crossStreet": "First St.",
+                "state": "CA",
+                "cc": "US",
+                "address": "111 East Magnolia Blvd.",
+                "lng": -118.31305272999545,
+                "country": "United States",
+                "city": "Burbank",
+                "distance": 20354,
+                "postalCode": "91502"
+            },
+            "referralId": "v-1402968894",
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d1f6941735",
+                    "pluralName": "Department Stores",
+                    "icon": {
+                        "suffix": ".png",
+                        "prefix": "https://ss1.4sqi.net/img/categories_v2/shops/departmentstore_"
+                    },
+                    "name": "Department Store",
+                    "primary": true,
+                    "shortName": "Department Store"
+                }
+            ],
+            "specials": {
+                "items": [],
+                "count": 0
+            },
+            "url": "http://bit.ly/sears4sq",
+            "id": "4b747fb3f964a52042e02de3",
+            "name": "Sears",
+            "contact": {
+                "twitter": "sears",
+                "formattedPhone": "(818) 559-6600",
+                "phone": "8185596600"
+            },
+            "verified": true,
+            "stats": {
+                "tipCount": 3,
+                "checkinsCount": 1052,
+                "usersCount": 667
+            }
+        },
+        "store": {
+            "contactdetails": {
+                "storephones": {
+                    "storephone": "8185596600",
+                    "pharmphone": "#"
+                },
+                "storeworkinhHours": {
+                    "thuopentime": "36000",
+                    "monopentime": "36000",
+                    "sunopentime": "36000",
+                    "friopentime": "36000",
+                    "satopentime": "36000",
+                    "friclosetime": "75600",
+                    "wedopentime": "36000",
+                    "weekdayclosetime": "75600",
+                    "weekdayopentime": "36000",
+                    "wedclosetime": "75600",
+                    "tueopentime": "36000",
+                    "satclosetime": "75600",
+                    "tueclosetime": "75600",
+                    "monclosetime": "75600",
+                    "sunclosetime": "72000",
+                    "thuclosetime": "75600"
+                }
+            },
+            "location": {
+                "address": {
+                    "state": "CA",
+                    "city": "BURBANK",
+                    "fullstatename": "CALIFORNIA",
+                    "county": "",
+                    "country": "US",
+                    "zipcode": "915021716",
+                    "streetaddress": "111 E MAGNOLIA BLVD"
+                },
+                "latitude": "34.182600942764",
+                "distance": "10.836562535921207",
+                "longitude": "-118.313118547027"
+            },
+            "storeinfo": {
+                "storeName": "MEDIA CITY CTR",
+                "storeType": "Sears_Stores",
+                "closeDate": "9999-12-31",
+                "startDate": "1991-07-31",
+                "storeNumber": "0001838",
+                "storeholidays": {
+                    "holidays": [
+                        {
+                            "holidaystartime": "0",
+                            "holidaydate": "0000-0-00",
+                            "holidayclosetime": "0"
+                        }
+                    ]
+                }
+            },
+            "storeservices": {
+                "storeservice": [
+                    {
+                        "servicename": "GIFT REGISTRY",
+                        "servicerank": "1",
+                        "serviceicon": "icon_giftreg.gif"
+                    },
+                    {
+                        "servicename": "STORE PICK UP",
+                        "servicerank": "6",
+                        "serviceicon": "icon_spu.gif"
+                    },
+                    {
+                        "servicename": 
